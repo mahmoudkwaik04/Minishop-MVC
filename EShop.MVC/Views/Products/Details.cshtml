@@ -1,0 +1,292 @@
+@model EShop.MVC.Models.Product
+@{
+    ViewData["Title"] = @Model.Name;
+}
+
+<div class="container py-4">
+    <!-- Breadcrumb -->
+    <nav aria-label="breadcrumb" class="mb-4">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a asp-controller="Home" asp-action="Index" class="arabic-text">الرئيسية</a></li>
+            <li class="breadcrumb-item"><a asp-controller="Products" asp-action="Index" class="arabic-text">المنتجات</a></li>
+            <li class="breadcrumb-item active arabic-text" aria-current="page">@Model.Name</li>
+        </ol>
+    </nav>
+
+    <div class="row">
+        <!-- Product Image -->
+        <div class="col-lg-6 mb-4">
+            <div class="card shadow-lg border-0">
+                <div class="position-relative">
+                    <img src="@(Model.ImageUrl ?? "https://via.placeholder.com/600x400/667eea/ffffff?text=" + Uri.EscapeDataString(Model.Name))" 
+                         alt="@Model.Name" class="card-img-top product-image" style="height: 400px; object-fit: cover;">
+                    
+                    @if (Model.IsFeatured)
+                    {
+                        <span class="badge bg-danger position-absolute top-0 end-0 m-3 fs-6">
+                            <i class="fa-solid fa-star me-1"></i>
+                            منتج مميز
+                        </span>
+                    }
+                    
+                    @if (Model.Stock <= 5 && Model.Stock > 0)
+                    {
+                        <span class="badge bg-warning position-absolute top-0 start-0 m-3 fs-6">
+                            <i class="fa-solid fa-exclamation-triangle me-1"></i>
+                            كمية محدودة
+                        </span>
+                    }
+                    
+                    @if (Model.Stock == 0)
+                    {
+                        <span class="badge bg-secondary position-absolute top-0 start-0 m-3 fs-6">
+                            <i class="fa-solid fa-times me-1"></i>
+                            نفد المخزون
+                        </span>
+                    }
+                </div>
+            </div>
+        </div>
+
+        <!-- Product Details -->
+        <div class="col-lg-6">
+            <div class="product-details">
+                <!-- Product Title -->
+                <h1 class="product-title arabic-heading mb-3">@Model.Name</h1>
+                
+                <!-- Category -->
+                @if (!string.IsNullOrEmpty(Model.Category))
+                {
+                    <div class="mb-3">
+                        <span class="badge bg-primary fs-6 arabic-text">
+                            <i class="fa-solid fa-tag me-1"></i>
+                            @Model.Category
+                        </span>
+                    </div>
+                }
+
+                <!-- Price -->
+                <div class="price-section mb-4">
+                    <h2 class="price-display arabic-text">
+                        <span class="current-price">@Model.Price.ToString("F2") ر.س</span>
+                    </h2>
+                </div>
+
+                <!-- Description -->
+                <div class="description-section mb-4">
+                    <h5 class="arabic-heading mb-3">
+                        <i class="fa-solid fa-info-circle me-2 text-primary"></i>
+                        وصف المنتج
+                    </h5>
+                    <p class="product-description arabic-text">
+                        @(Model.Description ?? "وصف تفصيلي للمنتج سيتم إضافته قريباً.")
+                    </p>
+                </div>
+
+                <!-- Stock Information -->
+                <div class="stock-section mb-4">
+                    <h6 class="arabic-heading mb-2">
+                        <i class="fa-solid fa-boxes me-2 text-success"></i>
+                        حالة المخزون
+                    </h6>
+                    @if (Model.Stock > 10)
+                    {
+                        <span class="badge bg-success fs-6 arabic-text">
+                            <i class="fa-solid fa-check me-1"></i>
+                            متوفر (@Model.Stock قطعة)
+                        </span>
+                    }
+                    else if (Model.Stock > 0)
+                    {
+                        <span class="badge bg-warning fs-6 arabic-text">
+                            <i class="fa-solid fa-exclamation me-1"></i>
+                            كمية محدودة (@Model.Stock قطع متبقية)
+                        </span>
+                    }
+                    else
+                    {
+                        <span class="badge bg-danger fs-6 arabic-text">
+                            <i class="fa-solid fa-times me-1"></i>
+                            نفد المخزون
+                        </span>
+                    }
+                </div>
+
+                <!-- Add to Cart Section -->
+                @if (Model.Stock > 0 && Model.IsAvailable)
+                {
+                    <div class="add-to-cart-section">
+                        <div class="row align-items-center mb-3">
+                            <div class="col-md-4">
+                                <label for="quantity" class="form-label arabic-text fw-bold">الكمية:</label>
+                                <div class="input-group">
+                                    <button type="button" class="btn btn-outline-secondary" onclick="decreaseQuantity()">
+                                        <i class="fa-solid fa-minus"></i>
+                                    </button>
+                                    <input type="number" id="quantity" name="quantity" min="1" max="@Model.Stock" 
+                                           value="1" class="form-control text-center" readonly>
+                                    <button type="button" class="btn btn-outline-secondary" onclick="increaseQuantity(@Model.Stock)">
+                                        <i class="fa-solid fa-plus"></i>
+                                    </button>
+                                </div>
+                            </div>
+                            <div class="col-md-8">
+                                <button type="button" class="btn btn-success btn-lg w-100 arabic-text add-to-cart-btn" 
+                                        onclick="addToCartFromDetails('@Model.Id')">
+                                    <i class="fa-solid fa-cart-plus me-2"></i>
+                                    أضف إلى السلة
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                }
+                else
+                {
+                    <div class="alert alert-warning arabic-text">
+                        <i class="fa-solid fa-exclamation-triangle me-2"></i>
+                        عذراً، هذا المنتج غير متوفر حالياً
+                    </div>
+                }
+
+                <!-- Product Features -->
+                <div class="features-section mt-4">
+                    <h6 class="arabic-heading mb-3">
+                        <i class="fa-solid fa-shield-check me-2 text-success"></i>
+                        مميزات الشراء
+                    </h6>
+                    <div class="row">
+                        <div class="col-md-6 mb-2">
+                            <small class="text-muted arabic-text">
+                                <i class="fa-solid fa-truck me-1 text-primary"></i>
+                                شحن مجاني للطلبات فوق 100 ر.س
+                            </small>
+                        </div>
+                        <div class="col-md-6 mb-2">
+                            <small class="text-muted arabic-text">
+                                <i class="fa-solid fa-undo me-1 text-primary"></i>
+                                إمكانية الإرجاع خلال 30 يوم
+                            </small>
+                        </div>
+                        <div class="col-md-6 mb-2">
+                            <small class="text-muted arabic-text">
+                                <i class="fa-solid fa-shield me-1 text-primary"></i>
+                                ضمان الجودة والأصالة
+                            </small>
+                        </div>
+                        <div class="col-md-6 mb-2">
+                            <small class="text-muted arabic-text">
+                                <i class="fa-solid fa-headset me-1 text-primary"></i>
+                                دعم فني 24/7
+                            </small>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Action Buttons -->
+                <div class="action-buttons mt-4">
+                    <a asp-controller="Products" asp-action="Index" class="btn btn-outline-primary arabic-text">
+                        <i class="fa-solid fa-arrow-left me-2"></i>
+                        العودة للمنتجات
+                    </a>
+                    <button type="button" class="btn btn-outline-secondary ms-2 arabic-text" onclick="shareProduct()">
+                        <i class="fa-solid fa-share me-2"></i>
+                        مشاركة
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        function increaseQuantity(maxStock) {
+            const quantityInput = document.getElementById('quantity');
+            let currentValue = parseInt(quantityInput.value);
+            if (currentValue < maxStock) {
+                quantityInput.value = currentValue + 1;
+            }
+        }
+
+        function decreaseQuantity() {
+            const quantityInput = document.getElementById('quantity');
+            let currentValue = parseInt(quantityInput.value);
+            if (currentValue > 1) {
+                quantityInput.value = currentValue - 1;
+            }
+        }
+
+        function shareProduct() {
+            if (navigator.share) {
+                navigator.share({
+                    title: '@Model.Name',
+                    text: '@(Model.Description ?? "منتج رائع من MiniShop")',
+                    url: window.location.href
+                });
+            } else {
+                // Fallback for browsers that don't support Web Share API
+                navigator.clipboard.writeText(window.location.href).then(function() {
+                    showNotification('تم نسخ رابط المنتج!', 'info');
+                });
+            }
+        }
+
+        // AJAX ile sepete ekleme fonksiyonu
+        function addToCartFromDetails(productId) {
+            const quantityInput = document.getElementById('quantity');
+            const quantity = parseInt(quantityInput.value);
+            const submitButton = document.querySelector('.add-to-cart-btn');
+            const originalButtonContent = submitButton.innerHTML;
+
+            // Butonu devre dışı bırak ve loading göster
+            submitButton.innerHTML = '<i class="fa-solid fa-spinner fa-spin me-2"></i>جاري الإضافة...';
+            submitButton.disabled = true;
+
+            console.log(`[Frontend Log] Sepete ekleme isteği başlatıldı. Ürün ID: ${productId}, Miktar: ${quantity}`);
+
+            $.ajax({
+                url: '@Url.Action("AddToCartAjax", "Cart")',
+                type: 'POST',
+                data: {
+                    productId: productId,
+                    quantity: quantity
+                },
+                success: function(response) {
+                    console.log(`[Frontend Log] Sunucudan yanıt alındı:`, response);
+                    
+                    if (response.success) {
+                        // Sepet sayısını güncelle
+                        updateCartCount(response.newCartCount);
+                        
+                        // Başarı mesajı göster
+                        showNotification(response.message, 'success');
+                        
+                        // Butonu başarı durumuna getir
+                        submitButton.innerHTML = '<i class="fa-solid fa-check me-2"></i>تم الإضافة!';
+                        submitButton.classList.remove('btn-success');
+                        submitButton.classList.add('btn-success');
+                        
+                        console.log(`[Frontend Log] Sepete başarıyla eklendi. Yeni sepet sayısı: ${response.newCartCount}`);
+                    } else {
+                        // Hata mesajı göster
+                        showNotification(response.message, 'error');
+                        console.error(`[Frontend Log] Sepete ekleme başarısız:`, response.message);
+                    }
+                },
+                error: function(xhr, status, error) {
+                    console.error('[Frontend Log] AJAX hatası:', error);
+                    showNotification('حدث خطأ أثناء إضافة المنتج. يرجى المحاولة مرة أخرى.', 'error');
+                },
+                complete: function() {
+                    // 2 saniye sonra butonu eski haline döndür
+                    setTimeout(function() {
+                        submitButton.innerHTML = originalButtonContent;
+                        submitButton.classList.remove('btn-success');
+                        submitButton.classList.add('btn-success');
+                        submitButton.disabled = false;
+                    }, 2000);
+                }
+            });
+        }
+    </script>
+}

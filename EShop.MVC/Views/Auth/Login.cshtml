@@ -1,0 +1,122 @@
+@using EShop.MVC.ViewModels
+@model LoginViewModel
+@{
+    ViewData["Title"] = "تسجيل الدخول";
+}
+
+<section class="py-5" style="min-height: 80vh; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-5 col-md-7">
+                <div class="card shadow-lg border-0" style="border-radius: 20px; overflow: hidden;">
+                    <div class="card-header bg-gradient text-white text-center py-4" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
+                        <h3 class="mb-0 arabic-heading">
+                            <i class="fa-solid fa-user-circle me-2"></i>
+                            تسجيل الدخول
+                        </h3>
+                        <p class="mb-0 mt-2 arabic-text opacity-75">مرحباً بعودتك إلى MiniShop</p>
+                    </div>
+                    <div class="card-body p-5">
+                        <form asp-action="Login" method="post">
+                            <input type="hidden" name="returnUrl" value="@ViewData["ReturnUrl"]" />
+                            <div asp-validation-summary="ModelOnly" class="alert alert-danger arabic-text" role="alert"></div>
+                            
+                            <div class="mb-4">
+                                <label asp-for="Email" class="form-label arabic-text fw-bold">
+                                    <i class="fa-solid fa-envelope me-2 text-primary"></i>
+                                    @Html.DisplayNameFor(m => m.Email)
+                                </label>
+                                <input asp-for="Email" class="form-control form-control-lg" placeholder="example@domain.com" />
+                                <span asp-validation-for="Email" class="text-danger small arabic-text"></span>
+                            </div>
+
+                            <div class="mb-4">
+                                <label asp-for="Password" class="form-label arabic-text fw-bold">
+                                    <i class="fa-solid fa-lock me-2 text-primary"></i>
+                                    @Html.DisplayNameFor(m => m.Password)
+                                </label>
+                                <div class="input-group">
+                                    <input asp-for="Password" class="form-control form-control-lg" placeholder="••••••••" />
+                                    <button class="btn btn-outline-secondary" type="button" onclick="togglePassword()">
+                                        <i class="fa-solid fa-eye" id="toggleIcon"></i>
+                                    </button>
+                                </div>
+                                <span asp-validation-for="Password" class="text-danger small arabic-text"></span>
+                            </div>
+
+                            <div class="mb-4">
+                                <div class="form-check">
+                                    <input asp-for="RememberMe" class="form-check-input" />
+                                    <label asp-for="RememberMe" class="form-check-label arabic-text">
+                                        @Html.DisplayNameFor(m => m.RememberMe)
+                                    </label>
+                                </div>
+                            </div>
+
+                            <div class="d-grid mb-4">
+                                <button type="submit" class="btn btn-primary btn-lg arabic-text fw-bold">
+                                    <i class="fa-solid fa-sign-in-alt me-2"></i>
+                                    تسجيل الدخول
+                                </button>
+                            </div>
+
+                            <div class="text-center">
+                                <p class="mb-2 arabic-text text-muted">ليس لديك حساب؟</p>
+                                <a asp-action="Register" class="btn btn-outline-primary arabic-text">
+                                    <i class="fa-solid fa-user-plus me-2"></i>
+                                    إنشاء حساب جديد
+                                </a>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+
+                <!-- Demo Accounts Info -->
+                <div class="card mt-4 shadow border-0" style="border-radius: 15px;">
+                    <div class="card-body text-center">
+                        <h6 class="card-title arabic-heading text-warning">
+                            <i class="fa-solid fa-info-circle me-2"></i>
+                            حسابات تجريبية
+                        </h6>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="p-3 bg-light rounded mb-2">
+                                    <strong class="arabic-text">مدير:</strong><br>
+                                    <small class="text-muted">admin@minishop.com</small><br>
+                                    <small class="text-muted">123456</small>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="p-3 bg-light rounded mb-2">
+                                    <strong class="arabic-text">مستخدم:</strong><br>
+                                    <small class="text-muted">user@minishop.com</small><br>
+                                    <small class="text-muted">123456</small>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+@section Scripts {
+    <script>
+        function togglePassword() {
+            const passwordInput = document.getElementById('Password');
+            const toggleIcon = document.getElementById('toggleIcon');
+            
+            if (passwordInput.type === 'password') {
+                passwordInput.type = 'text';
+                toggleIcon.classList.remove('fa-eye');
+                toggleIcon.classList.add('fa-eye-slash');
+            } else {
+                passwordInput.type = 'password';
+                toggleIcon.classList.remove('fa-eye-slash');
+                toggleIcon.classList.add('fa-eye');
+            }
+        }
+    </script>
+}
+

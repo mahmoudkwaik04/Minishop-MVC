@@ -1,0 +1,113 @@
+@model EShop.MVC.Models.Product
+@{
+    ViewData["Title"] = "تفاصيل المنتج";
+}
+
+<div class="container-fluid py-4">
+    <div class="row">
+        <div class="col-12">
+            <div class="card shadow">
+                <div class="card-header bg-info text-white">
+                    <h4 class="mb-0 arabic-heading">
+                        <i class="fa-solid fa-eye me-2"></i>
+                        تفاصيل المنتج
+                    </h4>
+                </div>
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-md-4">
+                            <img src="@(Model.ImageUrl ?? "https://via.placeholder.com/300x250/667eea/ffffff?text=صورة")" 
+                                 alt="@Model.Name" class="img-fluid rounded shadow">
+                        </div>
+                        <div class="col-md-8">
+                            <h3 class="arabic-text">@Model.Name</h3>
+                            <p class="text-muted arabic-text">@Model.Description</p>
+                            
+                            <div class="row mb-3">
+                                <div class="col-sm-3"><strong>الفئة:</strong></div>
+                                <div class="col-sm-9 arabic-text">@(Model.Category ?? "غير محدد")</div>
+                            </div>
+                            
+                            <div class="row mb-3">
+                                <div class="col-sm-3"><strong>السعر:</strong></div>
+                                <div class="col-sm-9 text-success fw-bold">@Model.Price.ToString("F2") ر.س</div>
+                            </div>
+                            
+                            <div class="row mb-3">
+                                <div class="col-sm-3"><strong>المخزون:</strong></div>
+                                <div class="col-sm-9">
+                                    @if (Model.Stock > 10)
+                                    {
+                                        <span class="badge bg-success">@Model.Stock</span>
+                                    }
+                                    else if (Model.Stock > 0)
+                                    {
+                                        <span class="badge bg-warning">@Model.Stock</span>
+                                    }
+                                    else
+                                    {
+                                        <span class="badge bg-danger">نفد المخزون</span>
+                                    }
+                                </div>
+                            </div>
+                            
+                            <div class="row mb-3">
+                                <div class="col-sm-3"><strong>الحالة:</strong></div>
+                                <div class="col-sm-9">
+                                    @if (Model.IsAvailable)
+                                    {
+                                        <span class="badge bg-success arabic-text">متوفر</span>
+                                    }
+                                    else
+                                    {
+                                        <span class="badge bg-secondary arabic-text">غير متوفر</span>
+                                    }
+                                </div>
+                            </div>
+                            
+                            <div class="row mb-3">
+                                <div class="col-sm-3"><strong>مميز:</strong></div>
+                                <div class="col-sm-9">
+                                    @if (Model.IsFeatured)
+                                    {
+                                        <span class="badge bg-warning arabic-text">مميز</span>
+                                    }
+                                    else
+                                    {
+                                        <span class="badge bg-light text-dark arabic-text">عادي</span>
+                                    }
+                                </div>
+                            </div>
+                            
+                            <div class="row mb-3">
+                                <div class="col-sm-3"><strong>تاريخ الإضافة:</strong></div>
+                                <div class="col-sm-9 arabic-text">@Model.CreatedAt.ToString("dd/MM/yyyy HH:mm")</div>
+                            </div>
+                            
+                            <div class="row mb-3">
+                                <div class="col-sm-3"><strong>آخر تحديث:</strong></div>
+                                <div class="col-sm-9 arabic-text">@Model.UpdatedAt.ToString("dd/MM/yyyy HH:mm")</div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="mt-4">
+                        <a asp-controller="AdminProducts" asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning">
+                            <i class="fa-solid fa-edit me-2"></i>
+                            تعديل
+                        </a>
+                        <a asp-controller="AdminProducts" asp-action="Delete" asp-route-id="@Model.Id" class="btn btn-danger">
+                            <i class="fa-solid fa-trash me-2"></i>
+                            حذف
+                        </a>
+                        <a asp-controller="AdminProducts" asp-action="Index" class="btn btn-secondary">
+                            <i class="fa-solid fa-arrow-left me-2"></i>
+                            العودة للقائمة
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

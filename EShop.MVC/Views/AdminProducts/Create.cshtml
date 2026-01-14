@@ -1,0 +1,150 @@
+@model EShop.MVC.ViewModels.ProductViewModel
+@{
+    ViewData["Title"] = "إضافة منتج جديد";
+}
+
+<div class="container py-4">
+    <div class="row justify-content-center">
+        <div class="col-lg-8">
+            <div class="card shadow">
+                <div class="card-header bg-success text-white">
+                    <h4 class="mb-0 arabic-heading">
+                        <i class="fa-solid fa-plus-circle me-2"></i>
+                        إضافة منتج جديد
+                    </h4>
+                </div>
+                <div class="card-body">
+                    <form asp-controller="AdminProducts" asp-action="Create" method="post">
+                        <div asp-validation-summary="ModelOnly" class="alert alert-danger arabic-text" role="alert"></div>
+                        
+                        <div class="row">
+                            <div class="col-md-6 mb-3">
+                                <label asp-for="Name" class="form-label arabic-text fw-bold">
+                                    <i class="fa-solid fa-tag me-2 text-success"></i>
+                                    @Html.DisplayNameFor(m => m.Name)
+                                </label>
+                                <input asp-for="Name" class="form-control form-control-lg" placeholder="أدخل اسم المنتج" />
+                                <span asp-validation-for="Name" class="text-danger small arabic-text"></span>
+                            </div>
+                            
+                            <div class="col-md-6 mb-3">
+                                <label asp-for="Category" class="form-label arabic-text fw-bold">
+                                    <i class="fa-solid fa-list me-2 text-success"></i>
+                                    @Html.DisplayNameFor(m => m.Category)
+                                </label>
+                                <select asp-for="Category" class="form-select form-control-lg">
+                                    <option value="">اختر الفئة</option>
+                                    <option value="إلكترونيات">إلكترونيات</option>
+                                    <option value="ملابس">ملابس</option>
+                                    <option value="كتب">كتب</option>
+                                    <option value="رياضة">رياضة</option>
+                                    <option value="منزل وحديقة">منزل وحديقة</option>
+                                    <option value="جمال وعناية">جمال وعناية</option>
+                                    <option value="ألعاب">ألعاب</option>
+                                    <option value="أخرى">أخرى</option>
+                                </select>
+                                <span asp-validation-for="Category" class="text-danger small arabic-text"></span>
+                            </div>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Description" class="form-label arabic-text fw-bold">
+                                <i class="fa-solid fa-align-left me-2 text-success"></i>
+                                @Html.DisplayNameFor(m => m.Description)
+                            </label>
+                            <textarea asp-for="Description" class="form-control" rows="4" placeholder="أدخل وصف المنتج"></textarea>
+                            <span asp-validation-for="Description" class="text-danger small arabic-text"></span>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-md-6 mb-3">
+                                <label asp-for="Price" class="form-label arabic-text fw-bold">
+                                    <i class="fa-solid fa-dollar-sign me-2 text-success"></i>
+                                    @Html.DisplayNameFor(m => m.Price)
+                                </label>
+                                <input asp-for="Price" class="form-control form-control-lg" placeholder="0.00" step="0.01" />
+                                <span asp-validation-for="Price" class="text-danger small arabic-text"></span>
+                            </div>
+                            
+                            <div class="col-md-6 mb-3">
+                                <label asp-for="Stock" class="form-label arabic-text fw-bold">
+                                    <i class="fa-solid fa-boxes me-2 text-success"></i>
+                                    @Html.DisplayNameFor(m => m.Stock)
+                                </label>
+                                <input asp-for="Stock" class="form-control form-control-lg" placeholder="0" />
+                                <span asp-validation-for="Stock" class="text-danger small arabic-text"></span>
+                            </div>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="ImageUrl" class="form-label arabic-text fw-bold">
+                                <i class="fa-solid fa-image me-2 text-success"></i>
+                                @Html.DisplayNameFor(m => m.ImageUrl)
+                            </label>
+                            <input asp-for="ImageUrl" class="form-control form-control-lg" placeholder="https://example.com/image.jpg" />
+                            <span asp-validation-for="ImageUrl" class="text-danger small arabic-text"></span>
+                            <div class="form-text arabic-text">
+                                <i class="fa-solid fa-info-circle me-1"></i>
+                                يمكنك استخدام رابط صورة من الإنترنت أو تركه فارغاً لاستخدام صورة افتراضية
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-md-6 mb-3">
+                                <div class="form-check form-switch">
+                                    <input asp-for="IsAvailable" class="form-check-input" />
+                                    <label asp-for="IsAvailable" class="form-check-label arabic-text fw-bold">
+                                        @Html.DisplayNameFor(m => m.IsAvailable)
+                                    </label>
+                                </div>
+                            </div>
+                            
+                            <div class="col-md-6 mb-3">
+                                <div class="form-check form-switch">
+                                    <input asp-for="IsFeatured" class="form-check-input" />
+                                    <label asp-for="IsFeatured" class="form-check-label arabic-text fw-bold">
+                                        @Html.DisplayNameFor(m => m.IsFeatured)
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+                            <a asp-controller="AdminProducts" asp-action="Index" class="btn btn-secondary btn-lg me-md-2 arabic-text">
+                                <i class="fa-solid fa-arrow-left me-2"></i>
+                                إلغاء
+                            </a>
+                            <button type="submit" class="btn btn-success btn-lg arabic-text">
+                                <i class="fa-solid fa-save me-2"></i>
+                                حفظ المنتج
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    // Preview image when URL is entered
+    document.getElementById('ImageUrl').addEventListener('input', function() {
+        const url = this.value;
+        const preview = document.getElementById('imagePreview');
+        
+        if (url && url.startsWith('http')) {
+            if (!preview) {
+                const img = document.createElement('img');
+                img.id = 'imagePreview';
+                img.className = 'img-thumbnail mt-2';
+                img.style.maxWidth = '200px';
+                img.style.maxHeight = '200px';
+                this.parentNode.appendChild(img);
+            }
+            document.getElementById('imagePreview').src = url;
+        } else if (preview) {
+            preview.remove();
+        }
+    });
+</script>
+

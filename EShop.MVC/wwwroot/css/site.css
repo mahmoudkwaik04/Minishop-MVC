@@ -1,0 +1,497 @@
+/* استيراد خطوط عربية جميلة من Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@200;300;400;500;700;800;900&family=Almarai:wght@300;400;700;800&family=Cairo:wght@200;300;400;500;600;700;800;900&display=swap');
+
+/* إعدادات عامة */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Tajawal', 'Cairo', 'Almarai', 'Segoe UI', Tahoma, Arial, sans-serif;
+    background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+    color: #333;
+    line-height: 1.7;
+    font-weight: 400;
+}
+
+/* تحسين الخطوط للعناوين */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Cairo', 'Tajawal', 'Almarai', sans-serif;
+    font-weight: 700;
+    letter-spacing: -0.5px;
+}
+
+h1 {
+    font-weight: 800;
+    font-size: 2.5rem;
+}
+
+h2 {
+    font-weight: 700;
+    font-size: 2rem;
+}
+
+h3 {
+    font-weight: 600;
+    font-size: 1.5rem;
+}
+
+/* تحسين الخطوط للنصوص */
+p, span, div {
+    font-family: 'Tajawal', 'Cairo', sans-serif;
+    font-weight: 400;
+}
+
+/* تحسين الخطوط للأزرار والروابط */
+.btn, .nav-link, a {
+    font-family: 'Almarai', 'Tajawal', sans-serif;
+    font-weight: 500;
+}
+
+/* تحسين الخطوط للنماذج */
+.form-control, input, textarea, select {
+    font-family: 'Tajawal', 'Cairo', sans-serif;
+    font-weight: 400;
+}
+
+/* تدرج الخلفية للنافبار */
+.bg-gradient {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+/* تأثيرات التنقل */
+.nav-hover {
+    transition: all 0.3s ease;
+    position: relative;
+}
+
+.nav-hover:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+    transform: translateY(-2px);
+}
+
+.nav-hover::after {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 2px;
+    bottom: 0;
+    left: 50%;
+    background-color: #ffc107;
+    transition: all 0.3s ease;
+}
+
+.nav-hover:hover::after {
+    width: 100%;
+    left: 0;
+}
+
+/* تصميم شريط التنقل */
+.navbar {
+    background: linear-gradient(135deg, rgba(102, 126, 234, 0.95) 0%, rgba(118, 75, 162, 0.95) 100%) !important;
+    backdrop-filter: blur(10px);
+    box-shadow: 0 2px 20px rgba(102, 126, 234, 0.3);
+    transition: all 0.3s ease;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.navbar-brand {
+    font-family: 'Cairo', 'Tajawal', sans-serif;
+    font-weight: 800;
+    font-size: 1.8rem;
+    color: #ffc107 !important;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.navbar-nav .nav-link {
+    color: rgba(255, 255, 255, 0.9) !important;
+    font-weight: 500;
+    margin: 0 5px;
+    padding: 8px 16px !important;
+    border-radius: 20px;
+    transition: all 0.3s ease;
+    position: relative;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #ffc107 !important;
+    background-color: rgba(255, 255, 255, 0.1);
+    transform: translateY(-2px);
+}
+
+.navbar-nav .nav-link.active {
+    color: #ffc107 !important;
+    background-color: rgba(255, 255, 255, 0.15);
+}
+
+/* تأثير خط تحت الروابط */
+.nav-hover::after {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 2px;
+    bottom: 5px;
+    left: 50%;
+    background-color: #ffc107;
+    transition: all 0.3s ease;
+}
+
+.nav-hover:hover::after {
+    width: 80%;
+    left: 10%;
+}
+
+/* تصميم زر السلة في الناف بار */
+.navbar .cart-btn {
+    background: linear-gradient(135deg, #ffc107 0%, #ffb300 100%) !important;
+    color: #333 !important;
+    font-weight: 700;
+    border-radius: 25px;
+    padding: 8px 20px;
+    margin-left: 10px;
+    box-shadow: 0 4px 15px rgba(255, 193, 7, 0.4);
+    border: 2px solid rgba(255, 255, 255, 0.2);
+}
+
+.navbar .cart-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(255, 193, 7, 0.6);
+    background: linear-gradient(135deg, #ffb300 0%, #ffc107 100%) !important;
+}
+
+/* تحسين مظهر الناف بار على الشاشات الصغيرة */
+@media (max-width: 991px) {
+    .navbar-collapse {
+        background: rgba(102, 126, 234, 0.98);
+        border-radius: 15px;
+        margin-top: 10px;
+        padding: 20px;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+    }
+    
+    .navbar-nav .nav-link {
+        margin: 5px 0;
+        text-align: center;
+    }
+    
+    .navbar .cart-btn {
+        margin: 10px auto;
+        display: block;
+        width: fit-content;
+    }
+}
+
+/* تأثيرات الأزرار */
+.cart-btn {
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 15px rgba(255, 193, 7, 0.3);
+}
+
+.cart-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(255, 193, 7, 0.4);
+}
+
+/* تصميم البطاقات */
+.card {
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+    overflow: hidden;
+}
+
+.card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
+}
+
+.card-img-top {
+    object-fit: cover;
+    height: 250px;
+    transition: transform 0.3s ease;
+}
+
+.card:hover .card-img-top {
+    transform: scale(1.05);
+}
+
+/* تصميم الأزرار */
+.btn {
+    border-radius: 25px;
+    padding: 10px 25px;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    border: none;
+}
+
+.btn-primary {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);
+}
+
+.btn-primary:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(102, 126, 234, 0.4);
+}
+
+.btn-success {
+    background: linear-gradient(135deg, #56ab2f 0%, #a8e6cf 100%);
+    box-shadow: 0 4px 15px rgba(86, 171, 47, 0.3);
+}
+
+.btn-success:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(86, 171, 47, 0.4);
+}
+
+.btn-danger {
+    background: linear-gradient(135deg, #ff416c 0%, #ff4b2b 100%);
+    box-shadow: 0 4px 15px rgba(255, 65, 108, 0.3);
+}
+
+.btn-danger:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(255, 65, 108, 0.4);
+}
+
+/* تصميم النماذج */
+.form-control {
+    border-radius: 10px;
+    border: 2px solid #e9ecef;
+    padding: 12px 15px;
+    transition: all 0.3s ease;
+}
+
+.form-control:focus {
+    border-color: #667eea;
+    box-shadow: 0 0 0 0.2rem rgba(102, 126, 234, 0.25);
+}
+
+/* تصميم الفوتر */
+.footer-link {
+    transition: all 0.3s ease;
+    padding: 5px 0;
+    display: inline-block;
+}
+
+.footer-link:hover {
+    color: #ffc107 !important;
+    transform: translateX(5px);
+}
+
+.social-links a {
+    transition: all 0.3s ease;
+    padding: 10px;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.social-links a:hover {
+    background-color: #ffc107;
+    color: #333 !important;
+    transform: translateY(-3px);
+}
+
+/* تأثيرات الحركة */
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.fade-in-up {
+    animation: fadeInUp 0.6s ease-out;
+}
+
+/* تصميم الهيرو سكشن */
+.hero-section {
+    background: linear-gradient(135deg, rgba(102, 126, 234, 0.9) 0%, rgba(118, 75, 162, 0.9) 100%),
+                url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" fill="%23ffffff" opacity="0.1"><polygon points="1000,100 1000,0 0,100"/></svg>');
+    background-size: cover;
+    background-position: center;
+    min-height: 70vh;
+    display: flex;
+    align-items: center;
+    color: white;
+    text-align: center;
+}
+
+.hero-content h1 {
+    font-size: 3.5rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.hero-content p {
+    font-size: 1.3rem;
+    margin-bottom: 2rem;
+    opacity: 0.9;
+}
+
+/* تصميم الشارات */
+.badge {
+    border-radius: 10px;
+    font-size: 0.75rem;
+    padding: 5px 8px;
+}
+
+/* تصميم الأسعار */
+.price {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #28a745;
+}
+
+.old-price {
+    text-decoration: line-through;
+    color: #6c757d;
+    font-size: 1rem;
+}
+
+/* تصميم متجاوب */
+@media (max-width: 768px) {
+    .hero-content h1 {
+        font-size: 2.5rem;
+    }
+    
+    .hero-content p {
+        font-size: 1.1rem;
+    }
+    
+    .card-img-top {
+        height: 200px;
+    }
+}
+
+/* تأثيرات التحميل */
+.loading {
+    position: relative;
+    overflow: hidden;
+}
+
+.loading::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.4), transparent);
+    animation: loading 1.5s infinite;
+}
+
+@keyframes loading {
+    0% { left: -100%; }
+    100% { left: 100%; }
+}
+
+/* تحسينات إضافية */
+.text-gradient {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.shadow-custom {
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.1);
+}
+
+.border-gradient {
+    border: 2px solid;
+    border-image: linear-gradient(135deg, #667eea 0%, #764ba2 100%) 1;
+}
+
+
+/* تحسينات خاصة للنصوص العربية */
+.arabic-text {
+    font-family: 'Cairo', 'Tajawal', sans-serif;
+    font-weight: 500;
+    text-align: right;
+    direction: rtl;
+}
+
+.arabic-heading {
+    font-family: 'Cairo', 'Almarai', sans-serif;
+    font-weight: 700;
+    letter-spacing: -0.3px;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+.arabic-light {
+    font-family: 'Tajawal', sans-serif;
+    font-weight: 300;
+}
+
+.arabic-bold {
+    font-family: 'Cairo', sans-serif;
+    font-weight: 800;
+}
+
+.arabic-medium {
+    font-family: 'Almarai', sans-serif;
+    font-weight: 700;
+}
+
+/* تحسين المسافات للنصوص العربية */
+.arabic-spacing {
+    letter-spacing: 0.3px;
+    word-spacing: 2px;
+}
+
+/* تأثيرات خاصة للعناوين الرئيسية */
+.hero-title {
+    font-family: 'Cairo', sans-serif;
+    font-weight: 900;
+    font-size: 3.5rem;
+    letter-spacing: -1px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.section-title {
+    font-family: 'Almarai', sans-serif;
+    font-weight: 800;
+    font-size: 2.2rem;
+    letter-spacing: -0.5px;
+}
+
+.card-title-arabic {
+    font-family: 'Cairo', sans-serif;
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+
+/* تحسين الخطوط للقوائم */
+.navbar-brand {
+    font-family: 'Cairo', sans-serif;
+    font-weight: 800;
+    font-size: 1.8rem !important;
+    letter-spacing: -0.5px;
+}
+
+.nav-link {
+    font-family: 'Almarai', sans-serif;
+    font-weight: 500;
+    font-size: 1rem;
+}
+
+/* تحسين الخطوط للفوتر */
+.footer-text {
+    font-family: 'Tajawal', sans-serif;
+    font-weight: 400;
+}
+
+.footer-heading {
+    font-family: 'Cairo', sans-serif;
+    font-weight: 700;
+}
+

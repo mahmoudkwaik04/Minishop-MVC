@@ -1,0 +1,178 @@
+
+@model List<EShop.MVC.Models.Product>
+@{
+    ViewData["Title"] = "الرئيسية";
+}
+
+<!-- Hero Section -->
+<section class="hero-section">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-8 hero-content fade-in-up">
+                <h1 class="hero-title mb-4">
+                    مرحباً بك في <span class="text-warning">MiniShop</span>
+                </h1>
+                <p class="lead mb-4 arabic-text">
+                    اكتشف عالماً من المنتجات المميزة بأسعار لا تُقاوم. تسوّق بثقة واستمتع بتجربة شراء استثنائية
+                </p>
+                <div class="d-flex flex-column flex-md-row gap-3 justify-content-center">
+                    <a class="btn btn-warning btn-lg text-dark fw-bold px-4 py-3" asp-controller="Products" asp-action="Index">
+                        <i class="fa-solid fa-shopping-bag me-2"></i>
+                        تصفح المنتجات
+                    </a>
+                    <a class="btn btn-outline-light btn-lg px-4 py-3" href="#features">
+                        <i class="fa-solid fa-info-circle me-2"></i>
+                        اعرف المزيد
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Features Section -->
+<section id="features" class="py-5">
+    <div class="container">
+        <div class="row text-center mb-5">
+            <div class="col-lg-8 mx-auto">
+                <h2 class="section-title text-gradient mb-3">لماذا تختار MiniShop؟</h2>
+                <p class="lead text-muted arabic-text">نقدم لك أفضل تجربة تسوق إلكتروني مع مميزات استثنائية</p>
+            </div>
+        </div>
+        <div class="row g-4">
+            <div class="col-lg-4 col-md-6">
+                <div class="card h-100 text-center shadow-custom">
+                    <div class="card-body p-4">
+                        <div class="feature-icon mb-3">
+                            <i class="fa-solid fa-truck-fast fs-1 text-primary"></i>
+                        </div>
+                        <h5 class="card-title arabic-heading">شحن سريع ومجاني</h5>
+                        <p class="card-text text-muted arabic-text">توصيل مجاني لجميع الطلبات فوق 100 ريال خلال 24 ساعة</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="card h-100 text-center shadow-custom">
+                    <div class="card-body p-4">
+                        <div class="feature-icon mb-3">
+                            <i class="fa-solid fa-shield-halved fs-1 text-success"></i>
+                        </div>
+                        <h5 class="card-title arabic-heading">ضمان الجودة</h5>
+                        <p class="card-text text-muted arabic-text">جميع منتجاتنا أصلية ومضمونة مع إمكانية الإرجاع خلال 30 يوم</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="card h-100 text-center shadow-custom">
+                    <div class="card-body p-4">
+                        <div class="feature-icon mb-3">
+                            <i class="fa-solid fa-headset fs-1 text-warning"></i>
+                        </div>
+                        <h5 class="card-title arabic-heading">دعم فني 24/7</h5>
+                        <p class="card-text text-muted arabic-text">فريق دعم متخصص متاح على مدار الساعة لمساعدتك</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Featured Products Section -->
+<section class="py-5 bg-light">
+    <div class="container">
+        <div class="row text-center mb-5">
+            <div class="col-lg-8 mx-auto">
+                <h2 class="section-title text-gradient mb-3">المنتجات المميزة</h2>
+                <p class="lead text-muted arabic-text">اكتشف أحدث وأفضل المنتجات المتوفرة لدينا</p>
+            </div>
+        </div>
+        <div class="row g-4">
+            @if (Model != null && Model.Any())
+            {
+                @foreach (var product in Model.Where(p => p.IsFeatured).Take(4))
+                {
+                    <div class="col-lg-3 col-md-6">
+                        <div class="card h-100 shadow-custom">
+                            <div class="position-relative">
+                                <img src="@(product.ImageUrl ?? "https://via.placeholder.com/300x250/667eea/ffffff?text=" + Uri.EscapeDataString(product.Name))" 
+                                     class="card-img-top" alt="@product.Name" style="height: 200px; object-fit: cover;">
+                                @if (product.IsFeatured)
+                                {
+                                    <span class="badge bg-danger position-absolute top-0 end-0 m-2">مميز</span>
+                                }
+                                @if (product.Stock <= 5 && product.Stock > 0)
+                                {
+                                    <span class="badge bg-warning position-absolute top-0 start-0 m-2">محدود</span>
+                                }
+                                @if (product.Stock == 0)
+                                {
+                                    <span class="badge bg-secondary position-absolute top-0 start-0 m-2">نفد المخزون</span>
+                                }
+                            </div>
+                            <div class="card-body">
+                                <h6 class="card-title-arabic">@product.Name</h6>
+                                <p class="card-text text-muted small arabic-text">@(product.Description ?? "وصف المنتج")</p>
+                                <div class="d-flex justify-content-between align-items-center">
+                                    <span class="price arabic-text fw-bold">@product.Price.ToString("F2") ر.س</span>
+                                    @if (product.Stock > 0)
+                                    {
+                                        <a asp-controller="Products" asp-action="Details" asp-route-id="@product.Id" 
+                                           class="btn btn-primary btn-sm arabic-text">
+                                            <i class="fa-solid fa-eye me-1"></i>
+                                            تفاصيل
+                                        </a>
+                                    }
+                                    else
+                                    {
+                                        <button class="btn btn-secondary btn-sm" disabled>
+                                            <i class="fa-solid fa-times me-1"></i>
+                                            غير متوفر
+                                        </button>
+                                    }
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                }
+            }
+            else
+            {
+                <div class="col-12 text-center">
+                    <div class="alert alert-info arabic-text">
+                        <i class="fa-solid fa-info-circle me-2"></i>
+                        لا توجد منتجات مميزة حالياً
+                    </div>
+                </div>
+            }
+        </div>
+        <div class="text-center mt-4">
+            <a class="btn btn-primary btn-lg arabic-text" asp-controller="Products" asp-action="Index">
+                <i class="fa-solid fa-shopping-bag me-2"></i>
+                عرض جميع المنتجات
+            </a>
+        </div>
+    </div>
+</section>
+
+<!-- Newsletter Section -->
+<section id="contact" class="py-5 bg-gradient text-white">
+    <div class="container">
+        <div class="row justify-content-center text-center">
+            <div class="col-lg-8">
+                <h2 class="display-5 fw-bold mb-3">ابق على اطلاع دائم</h2>
+                <p class="lead mb-4">اشترك في نشرتنا الإخبارية واحصل على أحدث العروض والمنتجات الجديدة</p>
+                <div class="row justify-content-center">
+                    <div class="col-md-6">
+                        <div class="input-group input-group-lg">
+                            <input type="email" class="form-control" placeholder="البريد الإلكتروني">
+                            <button class="btn btn-warning text-dark fw-bold" type="button">
+                                <i class="fa-solid fa-paper-plane me-1"></i>
+                                اشتراك
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

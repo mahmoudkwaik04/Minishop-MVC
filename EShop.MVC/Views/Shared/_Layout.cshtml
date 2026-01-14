@@ -1,0 +1,230 @@
+﻿<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Mini EShop</title>
+
+    <!-- Bootstrap 5 RTL -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.rtl.min.css" rel="stylesheet" />
+
+    <!-- Font Awesome -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" rel="stylesheet" />
+
+    <!-- Google Fonts - خطوط عربية جميلة -->
+    <link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@200;300;400;500;700;800;900&family=Almarai:wght@300;400;700;800&family=Cairo:wght@200;300;400;500;600;700;800;900&display=swap" rel="stylesheet" />
+
+    <!-- Toastr CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
+
+    <!-- CSS الخاص بالموقع -->
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+
+<body class="d-flex flex-column min-vh-100">
+
+    <!-- Navbar -->
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-dark bg-gradient shadow-lg">
+            <div class="container">
+                <a class="navbar-brand fw-bold fs-3" asp-controller="Home" asp-action="Index">
+                    <i class="fa-solid fa-shop me-2 text-warning"></i> 
+                    <span class="text-white">Mini</span><span class="text-warning">Shop</span>
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                        aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav ms-auto">
+                        <li class="nav-item">
+                            <a class="nav-link px-3 py-2 rounded-pill mx-1 nav-hover" asp-controller="Home" asp-action="Index">
+                                <i class="fa-solid fa-house me-1"></i> الرئيسية
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link px-3 py-2 rounded-pill mx-1 nav-hover" asp-controller="Products" asp-action="Index">
+                                <i class="fa-solid fa-box-open me-1"></i> المنتجات
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link px-3 py-2 rounded-pill mx-1 nav-hover" href="#about">
+                                <i class="fa-solid fa-circle-info me-1"></i> من نحن
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link px-3 py-2 rounded-pill mx-1 nav-hover" href="#contact">
+                                <i class="fa-solid fa-envelope me-1"></i> تواصل معنا
+                            </a>
+                        </li>
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle px-3 py-2 rounded-pill mx-1 nav-hover" href="#" id="userDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                    <i class="fa-solid fa-user me-1"></i> @User.Identity.Name
+                                </a>
+                                <ul class="dropdown-menu" aria-labelledby="userDropdown">
+                                    <li><a class="dropdown-item" href="#"><i class="fa-solid fa-user me-2"></i>الملف الشخصي</a></li>
+                                    <li><a class="dropdown-item" href="#"><i class="fa-solid fa-shopping-bag me-2"></i>طلباتي</a></li>
+                                    <li><hr class="dropdown-divider"></li>
+                                    <li><a class="dropdown-item" asp-controller="Auth" asp-action="Logout"><i class="fa-solid fa-sign-out-alt me-2"></i>تسجيل الخروج</a></li>
+                                </ul>
+                            </li>
+                        }
+                        else
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link px-3 py-2 rounded-pill mx-1 nav-hover" asp-controller="Auth" asp-action="Login">
+                                    <i class="fa-solid fa-user me-1"></i> تسجيل الدخول
+                                </a>
+                            </li>
+                        }
+                        @if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
+                        {
+                        <li class="nav-item">
+                            <a class="nav-link px-3 py-2 rounded-pill mx-1 nav-hover" href="/Admin/Products">
+                                <i class="fa-solid fa-cog me-1"></i> لوحة التحكم
+                            </a>
+                        </li>
+                        }
+                        <li class="nav-item">
+                           <a class="btn btn-warning text-dark fw-bold px-3 py-2 ms-2 cart-btn" asp-controller="Cart" asp-action="Index">
+                                <i class="fa-solid fa-cart-shopping me-1"></i> السلة
+                                <span class="badge bg-danger ms-1" id="cart-count">@await Component.InvokeAsync("CartSummary")</span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Main -->
+    <main role="main" class="flex-grow-1">
+        @RenderBody()
+    </main>
+
+   <!-- Footer -->
+<footer class="bg-dark text-light py-5 mt-auto">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4 mb-4">
+                <h5 class="text-warning mb-3">
+                    <i class="fa-solid fa-shop me-2"></i>MiniShop
+                </h5>
+                <p class="text-light">متجرك الإلكتروني المفضل للحصول على أفضل المنتجات بأسعار منافسة وجودة عالية.</p>
+                <div class="social-links">
+                    <a href="#" class="text-light me-3 fs-5"><i class="fab fa-facebook"></i></a>
+                    <a href="#" class="text-light me-3 fs-5"><i class="fab fa-twitter"></i></a>
+                    <a href="#" class="text-light me-3 fs-5"><i class="fab fa-instagram"></i></a>
+                    <a href="#" class="text-light me-3 fs-5"><i class="fab fa-linkedin"></i></a>
+                </div>
+            </div>
+            <div class="col-lg-2 col-md-6 mb-4">
+                <h6 class="text-warning mb-3">روابط سريعة</h6>
+                <ul class="list-unstyled">
+                    <li><a asp-controller="Home" asp-action="Index" class="footer-link">الرئيسية</a></li>
+                    <li><a asp-controller="Products" asp-action="Index" class="footer-link">المنتجات</a></li>
+                    <li><a href="#about" class="footer-link">من نحن</a></li>
+                    <li><a href="#contact" class="footer-link">تواصل معنا</a></li>
+                </ul>
+            </div>
+            <div class="col-lg-3 col-md-6 mb-4">
+                <h6 class="text-warning mb-3">خدمة العملاء</h6>
+                <ul class="list-unstyled">
+                    <li><a href="#" class="footer-link">سياسة الإرجاع</a></li>
+                    <li><a href="#" class="footer-link">الشحن والتوصيل</a></li>
+                    <li><a href="#" class="footer-link">الأسئلة الشائعة</a></li>
+                    <li><a href="#" class="footer-link">الدعم الفني</a></li>
+                </ul>
+            </div>
+            <div class="col-lg-3 mb-4">
+                <h6 class="text-warning mb-3">اشترك في النشرة الإخبارية</h6>
+                <p class="text-muted small">احصل على آخر العروض والمنتجات الجديدة</p>
+                <div class="input-group">
+                    <input type="email" class="form-control" placeholder="البريد الإلكتروني">
+                    <button class="btn btn-warning text-dark" type="button">
+                        <i class="fa-solid fa-paper-plane"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+        <hr class="my-4 border-secondary">
+        <div class="row align-items-center">
+            <div class="col-md-6">
+                <p class="mb-0 text-light">© @DateTime.Now.Year MiniShop. جميع الحقوق محفوظة.</p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<!-- CSS خاص بالروابط -->
+<style>
+    .footer-link {
+        color: #f8f9fa !important;
+        text-decoration: none;
+        transition: 0.3s;
+    }
+    .footer-link:hover {
+        color: #ffc107 !important; 
+        text-decoration: underline;
+    }
+</style>
+
+    <!-- jQuery -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+    
+    <!-- Toastr JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+    
+    <!-- Global JavaScript Functions -->
+    <script>
+        // Toastr ayarları
+        toastr.options = {
+            "closeButton": true,
+            "debug": false,
+            "newestOnTop": true,
+            "progressBar": true,
+            "positionClass": "toast-top-right",
+            "preventDuplicates": false,
+            "onclick": null,
+            "showDuration": "300",
+            "hideDuration": "1000",
+            "timeOut": "3000",
+            "extendedTimeOut": "1000",
+            "showEasing": "swing",
+            "hideEasing": "linear",
+            "showMethod": "fadeIn",
+            "hideMethod": "fadeOut"
+        };
+
+        // Sepet sayısını güncelleme fonksiyonu
+        function updateCartCount(newCount) {
+            $('#cart-count').text(newCount);
+            if (newCount > 0) {
+                $('#cart-count').show();
+            } else {
+                $('#cart-count').hide();
+            }
+        }
+
+        // Bildirim gösterme fonksiyonu
+        function showNotification(message, type) {
+            if (type === 'success') {
+                toastr.success(message);
+            } else if (type === 'error') {
+                toastr.error(message);
+            } else if (type === 'warning') {
+                toastr.warning(message);
+            } else if (type === 'info') {
+                toastr.info(message);
+            }
+        }
+    </script>
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

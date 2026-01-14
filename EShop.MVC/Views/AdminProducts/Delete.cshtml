@@ -1,0 +1,64 @@
+@model EShop.MVC.Models.Product
+@{
+    ViewData["Title"] = "حذف المنتج";
+}
+
+<div class="container-fluid py-4">
+    <div class="row">
+        <div class="col-12">
+            <div class="card shadow">
+                <div class="card-header bg-danger text-white">
+                    <h4 class="mb-0 arabic-heading">
+                        <i class="fa-solid fa-trash me-2"></i>
+                        حذف المنتج
+                    </h4>
+                </div>
+                <div class="card-body">
+                    <div class="alert alert-warning arabic-text">
+                        <i class="fa-solid fa-exclamation-triangle me-2"></i>
+                        هل أنت متأكد من حذف هذا المنتج؟ لا يمكن التراجع عن هذا الإجراء.
+                    </div>
+                    
+                    <div class="row">
+                        <div class="col-md-4">
+                            <img src="@(Model.ImageUrl ?? "https://via.placeholder.com/300x250/667eea/ffffff?text=صورة")" 
+                                 alt="@Model.Name" class="img-fluid rounded shadow">
+                        </div>
+                        <div class="col-md-8">
+                            <h3 class="arabic-text">@Model.Name</h3>
+                            <p class="text-muted arabic-text">@Model.Description</p>
+                            
+                            <div class="row mb-2">
+                                <div class="col-sm-3"><strong>الفئة:</strong></div>
+                                <div class="col-sm-9 arabic-text">@(Model.Category ?? "غير محدد")</div>
+                            </div>
+                            
+                            <div class="row mb-2">
+                                <div class="col-sm-3"><strong>السعر:</strong></div>
+                                <div class="col-sm-9 text-success fw-bold">@Model.Price.ToString("F2") ر.س</div>
+                            </div>
+                            
+                            <div class="row mb-2">
+                                <div class="col-sm-3"><strong>المخزون:</strong></div>
+                                <div class="col-sm-9">@Model.Stock</div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <form asp-controller="AdminProducts" asp-action="Delete" method="post" class="mt-4">
+                        <input type="hidden" asp-for="Id" />
+                        <button type="submit" class="btn btn-danger">
+                            <i class="fa-solid fa-trash me-2"></i>
+                            تأكيد الحذف
+                        </button>
+                        <a asp-controller="AdminProducts" asp-action="Index" class="btn btn-secondary">
+                            <i class="fa-solid fa-times me-2"></i>
+                            إلغاء
+                        </a>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

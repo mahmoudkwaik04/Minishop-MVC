@@ -1,0 +1,134 @@
+@model IEnumerable<EShop.MVC.Models.Product>
+@{
+    ViewData["Title"] = "إدارة المنتجات";
+}
+
+<div class="container-fluid py-4">
+    <div class="row">
+        <div class="col-12">
+            <div class="card shadow">
+                <div class="card-header bg-primary text-white">
+                    <div class="d-flex justify-content-between align-items-center">
+                        <h4 class="mb-0 arabic-heading">
+                            <i class="fa-solid fa-boxes-stacked me-2"></i>
+                            إدارة المنتجات
+                        </h4>
+                        <a asp-controller="AdminProducts" asp-action="Create" class="btn btn-warning">
+                            <i class="fa-solid fa-plus me-2"></i>
+                            إضافة منتج جديد
+                        </a>
+                    </div>
+                </div>
+                <div class="card-body">
+                    @if (TempData["SuccessMessage"] != null)
+                    {
+                        <div class="alert alert-success alert-dismissible fade show arabic-text" role="alert">
+                            <i class="fa-solid fa-check-circle me-2"></i>
+                            @TempData["SuccessMessage"]
+                            <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+                        </div>
+                    }
+
+                    @if (Model.Any())
+                    {
+                        <div class="table-responsive">
+                            <table class="table table-hover">
+                                <thead class="table-dark">
+                                    <tr class="arabic-text">
+                                        <th>الصورة</th>
+                                        <th>اسم المنتج</th>
+                                        <th>الفئة</th>
+                                        <th>السعر</th>
+                                        <th>المخزون</th>
+                                        <th>الحالة</th>
+                                        <th>مميز</th>
+                                        <th>تاريخ الإضافة</th>
+                                        <th>الإجراءات</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var product in Model)
+                                    {
+                                        <tr>
+                                            <td>
+                                                <img src="@(product.ImageUrl ?? "https://via.placeholder.com/50x50/667eea/ffffff?text=صورة")" 
+                                                     alt="@product.Name" class="img-thumbnail" style="width: 50px; height: 50px; object-fit: cover;">
+                                            </td>
+                                            <td class="arabic-text fw-bold">@product.Name</td>
+                                            <td class="arabic-text">@(product.Category ?? "غير محدد")</td>
+                                            <td class="arabic-text fw-bold text-success">@product.Price.ToString("F2") ر.س</td>
+                                            <td>
+                                                @if (product.Stock > 10)
+                                                {
+                                                    <span class="badge bg-success">@product.Stock</span>
+                                                }
+                                                else if (product.Stock > 0)
+                                                {
+                                                    <span class="badge bg-warning">@product.Stock</span>
+                                                }
+                                                else
+                                                {
+                                                    <span class="badge bg-danger">نفد المخزون</span>
+                                                }
+                                            </td>
+                                            <td>
+                                                @if (product.IsAvailable)
+                                                {
+                                                    <span class="badge bg-success arabic-text">متوفر</span>
+                                                }
+                                                else
+                                                {
+                                                    <span class="badge bg-secondary arabic-text">غير متوفر</span>
+                                                }
+                                            </td>
+                                            <td>
+                                                @if (product.IsFeatured)
+                                                {
+                                                    <span class="badge bg-warning arabic-text">مميز</span>
+                                                }
+                                                else
+                                                {
+                                                    <span class="badge bg-light text-dark arabic-text">عادي</span>
+                                                }
+                                            </td>
+                                            <td class="arabic-text">@product.CreatedAt.ToString("dd/MM/yyyy")</td>
+                                            <td>
+                                                <div class="btn-group" role="group">
+                                                    <a asp-controller="AdminProducts" asp-action="Details" asp-route-id="@product.Id" 
+                                                       class="btn btn-info btn-sm" title="عرض التفاصيل">
+                                                        <i class="fa-solid fa-eye"></i>
+                                                    </a>
+                                                    <a asp-controller="AdminProducts" asp-action="Edit" asp-route-id="@product.Id" 
+                                                       class="btn btn-warning btn-sm" title="تعديل">
+                                                        <i class="fa-solid fa-edit"></i>
+                                                    </a>
+                                                    <a asp-controller="AdminProducts" asp-action="Delete" asp-route-id="@product.Id" 
+                                                       class="btn btn-danger btn-sm" title="حذف">
+                                                        <i class="fa-solid fa-trash"></i>
+                                                    </a>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                    }
+                    else
+                    {
+                        <div class="text-center py-5">
+                            <i class="fa-solid fa-box-open fa-3x text-muted mb-3"></i>
+                            <h5 class="text-muted arabic-text">لا توجد منتجات</h5>
+                            <p class="text-muted arabic-text">ابدأ بإضافة منتجات جديدة لمتجرك</p>
+                            <a asp-controller="AdminProducts" asp-action="Create" class="btn btn-primary">
+                                <i class="fa-solid fa-plus me-2"></i>
+                                إضافة أول منتج
+                            </a>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

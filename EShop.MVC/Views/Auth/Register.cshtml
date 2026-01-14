@@ -1,0 +1,130 @@
+@using EShop.MVC.ViewModels
+@model RegisterViewModel
+@{
+    ViewData["Title"] = "إنشاء حساب جديد";
+}
+
+<section class="py-5" style="min-height: 90vh; background: linear-gradient(135deg, #56ab2f 0%, #a8e6cf 100%);">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-6 col-md-8">
+                <div class="card shadow-lg border-0" style="border-radius: 20px; overflow: hidden;">
+                    <div class="card-header bg-gradient text-white text-center py-4" style="background: linear-gradient(135deg, #56ab2f 0%, #a8e6cf 100%);">
+                        <h3 class="mb-0 arabic-heading">
+                            <i class="fa-solid fa-user-plus me-2"></i>
+                            إنشاء حساب جديد
+                        </h3>
+                        <p class="mb-0 mt-2 arabic-text opacity-75">انضم إلى عائلة MiniShop</p>
+                    </div>
+                    <div class="card-body p-5">
+                        <form asp-action="Register" method="post">
+                            <div asp-validation-summary="ModelOnly" class="alert alert-danger arabic-text" role="alert"></div>
+                            
+                            <div class="mb-4">
+                                <label asp-for="FullName" class="form-label arabic-text fw-bold">
+                                    <i class="fa-solid fa-user me-2 text-success"></i>
+                                    @Html.DisplayNameFor(m => m.FullName)
+                                </label>
+                                <input asp-for="FullName" class="form-control form-control-lg" placeholder="أدخل اسمك الكامل" />
+                                <span asp-validation-for="FullName" class="text-danger small arabic-text"></span>
+                            </div>
+
+                            <div class="mb-4">
+                                <label asp-for="Email" class="form-label arabic-text fw-bold">
+                                    <i class="fa-solid fa-envelope me-2 text-success"></i>
+                                    @Html.DisplayNameFor(m => m.Email)
+                                </label>
+                                <input asp-for="Email" class="form-control form-control-lg" placeholder="example@domain.com" />
+                                <span asp-validation-for="Email" class="text-danger small arabic-text"></span>
+                            </div>
+
+                            <div class="mb-4">
+                                <label asp-for="PhoneNumber" class="form-label arabic-text fw-bold">
+                                    <i class="fa-solid fa-phone me-2 text-success"></i>
+                                    @Html.DisplayNameFor(m => m.PhoneNumber)
+                                </label>
+                                <input asp-for="PhoneNumber" class="form-control form-control-lg" placeholder="+966 50 123 4567" />
+                                <span asp-validation-for="PhoneNumber" class="text-danger small arabic-text"></span>
+                            </div>
+
+                            <div class="row">
+                                <div class="col-md-6 mb-4">
+                                    <label asp-for="Password" class="form-label arabic-text fw-bold">
+                                        <i class="fa-solid fa-lock me-2 text-success"></i>
+                                        @Html.DisplayNameFor(m => m.Password)
+                                    </label>
+                                    <div class="input-group">
+                                        <input asp-for="Password" class="form-control form-control-lg" placeholder="••••••••" />
+                                        <button class="btn btn-outline-secondary" type="button" onclick="togglePassword('Password')">
+                                            <i class="fa-solid fa-eye" id="toggleIcon1"></i>
+                                        </button>
+                                    </div>
+                                    <span asp-validation-for="Password" class="text-danger small arabic-text"></span>
+                                </div>
+                                <div class="col-md-6 mb-4">
+                                    <label asp-for="ConfirmPassword" class="form-label arabic-text fw-bold">
+                                        <i class="fa-solid fa-lock me-2 text-success"></i>
+                                        @Html.DisplayNameFor(m => m.ConfirmPassword)
+                                    </label>
+                                    <div class="input-group">
+                                        <input asp-for="ConfirmPassword" class="form-control form-control-lg" placeholder="••••••••" />
+                                        <button class="btn btn-outline-secondary" type="button" onclick="togglePassword('ConfirmPassword')">
+                                            <i class="fa-solid fa-eye" id="toggleIcon2"></i>
+                                        </button>
+                                    </div>
+                                    <span asp-validation-for="ConfirmPassword" class="text-danger small arabic-text"></span>
+                                </div>
+                            </div>
+
+                            <div class="mb-4">
+                                <div class="form-check">
+                                    <input asp-for="AgreeToTerms" class="form-check-input" />
+                                    <label asp-for="AgreeToTerms" class="form-check-label arabic-text">
+                                        @Html.DisplayNameFor(m => m.AgreeToTerms)
+                                        <a href="#" class="text-decoration-none">الشروط والأحكام</a>
+                                    </label>
+                                </div>
+                                <span asp-validation-for="AgreeToTerms" class="text-danger small arabic-text"></span>
+                            </div>
+
+                            <div class="d-grid mb-4">
+                                <button type="submit" class="btn btn-success btn-lg arabic-text fw-bold">
+                                    <i class="fa-solid fa-user-check me-2"></i>
+                                    إنشاء الحساب
+                                </button>
+                            </div>
+
+                            <div class="text-center">
+                                <p class="mb-2 arabic-text text-muted">لديك حساب بالفعل؟</p>
+                                <a asp-action="Login" class="btn btn-outline-success arabic-text">
+                                    <i class="fa-solid fa-sign-in-alt me-2"></i>
+                                    تسجيل الدخول
+                                </a>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+@section Scripts {
+    <script>
+        function togglePassword(fieldId) {
+            const passwordInput = document.getElementById(fieldId);
+            const toggleIcon = document.getElementById(fieldId === 'Password' ? 'toggleIcon1' : 'toggleIcon2');
+            
+            if (passwordInput.type === 'password') {
+                passwordInput.type = 'text';
+                toggleIcon.classList.remove('fa-eye');
+                toggleIcon.classList.add('fa-eye-slash');
+            } else {
+                passwordInput.type = 'password';
+                toggleIcon.classList.remove('fa-eye-slash');
+                toggleIcon.classList.add('fa-eye');
+            }
+        }
+    </script>
+}
+

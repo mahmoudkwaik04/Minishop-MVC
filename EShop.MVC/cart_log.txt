@@ -1,0 +1,1551 @@
+08/26/2025 10:16:41: GetCart: Retrieved JSON from session: 
+08/26/2025 10:17:11: GetCart: Retrieved JSON from session: 
+08/26/2025 10:17:20: GetCart: Retrieved JSON from session: 
+08/26/2025 10:17:29: GetCart: Retrieved JSON from session: 
+8/26/2025 8:25:30 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 8:25:30 PM: Count: Current total items in cart: 0
+8/26/2025 8:25:34 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 8:25:34 PM: Count: Current total items in cart: 0
+8/26/2025 8:25:37 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 8:25:37 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 8:25:37 PM: Count: Current total items in cart: 0
+8/26/2025 8:26:19 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 8:26:19 PM: Count: Current total items in cart: 0
+8/26/2025 8:26:33 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 8:26:33 PM: Count: Current total items in cart: 0
+8/26/2025 8:26:36 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 8:26:36 PM: Count: Current total items in cart: 0
+8/26/2025 8:26:50 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 8:26:50 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 8:26:50 PM: Count: Current total items in cart: 0
+8/26/2025 8:26:54 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 8:26:54 PM: Count: Current total items in cart: 0
+8/26/2025 8:30:37 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 8:30:37 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 8:30:37 PM: Count: Current total items in cart: 0
+8/26/2025 8:30:40 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 8:30:40 PM: Count: Current total items in cart: 0
+8/26/2025 8:30:42 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 8:30:42 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 8:30:42 PM: Count: Current total items in cart: 0
+8/26/2025 8:30:44 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 8:30:44 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 8:30:44 PM: Count: Current total items in cart: 0
+8/26/2025 8:30:44 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 8:30:44 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 8:30:44 PM: Count: Current total items in cart: 0
+8/26/2025 8:30:45 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 8:30:45 PM: Count: Current total items in cart: 0
+8/26/2025 8:30:46 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 8:30:46 PM: Count: Current total items in cart: 0
+8/26/2025 8:30:47 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 8:30:47 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 8:30:47 PM: Count: Current total items in cart: 0
+8/26/2025 8:30:48 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 8:30:48 PM: Count: Current total items in cart: 0
+8/26/2025 8:32:33 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 8:32:33 PM: Count: Current total items in cart: 0
+8/26/2025 8:32:47 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 8:32:47 PM: Count: Current total items in cart: 0
+8/26/2025 8:32:55 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 8:32:55 PM: Count: Current total items in cart: 0
+8/26/2025 8:32:57 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 8:32:57 PM: Count: Current total items in cart: 0
+8/26/2025 8:33:05 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 8:33:05 PM: Count: Current total items in cart: 0
+8/26/2025 8:33:07 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 8:33:07 PM: Count: Current total items in cart: 0
+8/26/2025 8:33:10 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 8:33:10 PM: Count: Current total items in cart: 0
+8/26/2025 8:33:19 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 8:33:19 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 8:33:19 PM: Count: Current total items in cart: 0
+8/26/2025 8:33:28 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 8:33:28 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 8:33:28 PM: Count: Current total items in cart: 0
+8/26/2025 8:33:45 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 8:33:45 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 8:33:45 PM: Count: Current total items in cart: 0
+8/26/2025 8:33:56 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 8:33:56 PM: Count: Current total items in cart: 0
+8/26/2025 8:33:58 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 8:33:58 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 8:33:58 PM: Count: Current total items in cart: 0
+8/26/2025 8:46:47 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 8:46:47 PM: Count: Current total items in cart: 0
+8/26/2025 8:46:48 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 8:46:48 PM: Count: Current total items in cart: 0
+8/26/2025 8:52:40 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 8:52:40 PM: Count: Current total items in cart: 0
+8/26/2025 8:52:44 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 8:52:44 PM: Count: Current total items in cart: 0
+8/26/2025 8:52:45 PM: Add: Attempting to add product 5ad1d6de-c04e-428c-965c-99b714efeec8 with quantity 1
+8/26/2025 8:52:45 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 8:52:45 PM: Add: Product 5ad1d6de-c04e-428c-965c-99b714efeec8 added. Cart before save: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+8/26/2025 8:52:45 PM: Save: Cart saved: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+8/26/2025 8:52:45 PM: Add: Product 5ad1d6de-c04e-428c-965c-99b714efeec8 added. Cart after save: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+8/26/2025 8:52:45 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+8/26/2025 8:52:45 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+8/26/2025 8:52:45 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+8/26/2025 8:52:45 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+8/26/2025 8:52:45 PM: Count: Current total items in cart: 1
+8/26/2025 8:53:03 PM: Add: Attempting to add product 5ad1d6de-c04e-428c-965c-99b714efeec8 with quantity 1
+8/26/2025 8:53:03 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+8/26/2025 8:53:03 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+8/26/2025 8:53:03 PM: Add: Product 5ad1d6de-c04e-428c-965c-99b714efeec8 added. Cart before save: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 8:53:03 PM: Save: Cart saved: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 8:53:03 PM: Add: Product 5ad1d6de-c04e-428c-965c-99b714efeec8 added. Cart after save: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 8:53:03 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 8:53:03 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 8:53:03 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 8:53:03 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 8:53:03 PM: Count: Current total items in cart: 2
+8/26/2025 8:53:24 PM: Add: Attempting to add product 5ad1d6de-c04e-428c-965c-99b714efeec8 with quantity 1
+8/26/2025 8:53:24 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 8:53:24 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 8:53:24 PM: Add: Product 5ad1d6de-c04e-428c-965c-99b714efeec8 added. Cart before save: {"5ad1d6de-c04e-428c-965c-99b714efeec8":3}
+8/26/2025 8:53:24 PM: Save: Cart saved: {"5ad1d6de-c04e-428c-965c-99b714efeec8":3}
+8/26/2025 8:53:24 PM: Add: Product 5ad1d6de-c04e-428c-965c-99b714efeec8 added. Cart after save: {"5ad1d6de-c04e-428c-965c-99b714efeec8":3}
+8/26/2025 8:53:24 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":3}
+8/26/2025 8:53:24 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":3}
+8/26/2025 8:53:24 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":3}
+8/26/2025 8:53:24 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":3}
+8/26/2025 8:53:24 PM: Count: Current total items in cart: 3
+8/26/2025 8:55:28 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":3}
+8/26/2025 8:55:28 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":3}
+8/26/2025 8:55:28 PM: Count: Current total items in cart: 3
+8/26/2025 8:55:29 PM: Add: Attempting to add product 688bbaa6-c15d-40da-9e0a-318a8f4ec7c4 with quantity 1
+8/26/2025 8:55:29 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":3}
+8/26/2025 8:55:29 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":3}
+8/26/2025 8:55:29 PM: Add: Product 688bbaa6-c15d-40da-9e0a-318a8f4ec7c4 added. Cart before save: {"5ad1d6de-c04e-428c-965c-99b714efeec8":3,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+8/26/2025 8:55:29 PM: Save: Cart saved: {"5ad1d6de-c04e-428c-965c-99b714efeec8":3,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+8/26/2025 8:55:29 PM: Add: Product 688bbaa6-c15d-40da-9e0a-318a8f4ec7c4 added. Cart after save: {"5ad1d6de-c04e-428c-965c-99b714efeec8":3,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+8/26/2025 8:55:30 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":3,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+8/26/2025 8:55:30 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":3,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+8/26/2025 8:55:30 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":3,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+8/26/2025 8:55:30 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":3,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+8/26/2025 8:55:30 PM: Count: Current total items in cart: 4
+8/26/2025 8:55:38 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":3,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+8/26/2025 8:55:38 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":3,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+8/26/2025 8:55:38 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":3,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+8/26/2025 8:55:38 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":3,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+8/26/2025 8:55:38 PM: Count: Current total items in cart: 4
+8/26/2025 8:55:49 PM: Remove: Attempting to remove product 5ad1d6de-c04e-428c-965c-99b714efeec8
+8/26/2025 8:55:49 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":3,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+8/26/2025 8:55:49 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":3,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+8/26/2025 8:55:49 PM: Remove: Product 5ad1d6de-c04e-428c-965c-99b714efeec8 removed. Cart after remove: {"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+8/26/2025 8:55:49 PM: Save: Cart saved: {"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+8/26/2025 8:55:49 PM: GetCart: Retrieved JSON from session: {"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+8/26/2025 8:55:49 PM: GetCart: Deserialized cart: {"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+8/26/2025 8:55:49 PM: GetCart: Retrieved JSON from session: {"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+8/26/2025 8:55:49 PM: GetCart: Deserialized cart: {"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+8/26/2025 8:55:49 PM: Count: Current total items in cart: 1
+8/26/2025 8:55:55 PM: Remove: Attempting to remove product 688bbaa6-c15d-40da-9e0a-318a8f4ec7c4
+8/26/2025 8:55:55 PM: GetCart: Retrieved JSON from session: {"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+8/26/2025 8:55:55 PM: GetCart: Deserialized cart: {"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+8/26/2025 8:55:55 PM: Remove: Product 688bbaa6-c15d-40da-9e0a-318a8f4ec7c4 removed. Cart after remove: {}
+8/26/2025 8:55:55 PM: Save: Cart saved: {}
+8/26/2025 8:55:55 PM: GetCart: Retrieved JSON from session: {}
+8/26/2025 8:55:55 PM: GetCart: Deserialized cart: {}
+8/26/2025 8:55:55 PM: GetCart: Retrieved JSON from session: {}
+8/26/2025 8:55:55 PM: GetCart: Deserialized cart: {}
+8/26/2025 8:55:55 PM: Count: Current total items in cart: 0
+8/26/2025 8:55:58 PM: GetCart: Retrieved JSON from session: {}
+8/26/2025 8:55:58 PM: GetCart: Deserialized cart: {}
+8/26/2025 8:55:58 PM: Count: Current total items in cart: 0
+8/26/2025 8:55:59 PM: GetCart: Retrieved JSON from session: {}
+8/26/2025 8:55:59 PM: GetCart: Deserialized cart: {}
+8/26/2025 8:55:59 PM: Count: Current total items in cart: 0
+8/26/2025 8:56:00 PM: Add: Attempting to add product 4fc27b22-b7ba-4764-a964-ef42931580ed with quantity 1
+8/26/2025 8:56:00 PM: GetCart: Retrieved JSON from session: {}
+8/26/2025 8:56:00 PM: GetCart: Deserialized cart: {}
+8/26/2025 8:56:00 PM: Add: Product 4fc27b22-b7ba-4764-a964-ef42931580ed added. Cart before save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 8:56:00 PM: Save: Cart saved: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 8:56:00 PM: Add: Product 4fc27b22-b7ba-4764-a964-ef42931580ed added. Cart after save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 8:56:00 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 8:56:00 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 8:56:00 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 8:56:00 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 8:56:00 PM: Count: Current total items in cart: 1
+8/26/2025 8:56:04 PM: Add: Attempting to add product 4fc27b22-b7ba-4764-a964-ef42931580ed with quantity 1
+8/26/2025 8:56:04 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 8:56:04 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 8:56:04 PM: Add: Product 4fc27b22-b7ba-4764-a964-ef42931580ed added. Cart before save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 8:56:04 PM: Save: Cart saved: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 8:56:04 PM: Add: Product 4fc27b22-b7ba-4764-a964-ef42931580ed added. Cart after save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 8:56:04 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 8:56:04 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 8:56:04 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 8:56:04 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 8:56:04 PM: Count: Current total items in cart: 2
+8/26/2025 8:56:06 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 8:56:06 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 8:56:06 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 8:56:06 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 8:56:06 PM: Count: Current total items in cart: 2
+8/26/2025 8:56:21 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 8:56:21 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 8:56:21 PM: Count: Current total items in cart: 2
+8/26/2025 8:56:25 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 8:56:25 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 8:56:25 PM: Count: Current total items in cart: 2
+8/26/2025 8:56:26 PM: Add: Attempting to add product 0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a with quantity 1
+8/26/2025 8:56:26 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 8:56:26 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 8:56:26 PM: Add: Product 0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a added. Cart before save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:56:26 PM: Save: Cart saved: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:56:26 PM: Add: Product 0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a added. Cart after save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:56:26 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:56:26 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:56:26 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:56:26 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:56:26 PM: Count: Current total items in cart: 3
+8/26/2025 8:56:32 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:56:32 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:56:32 PM: Count: Current total items in cart: 3
+8/26/2025 8:56:33 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:56:33 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:56:33 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:56:33 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:56:33 PM: Count: Current total items in cart: 3
+8/26/2025 8:56:40 PM: Clear: Attempting to clear cart.
+8/26/2025 8:56:40 PM: Save: Cart saved: {}
+8/26/2025 8:56:40 PM: Clear: Cart cleared.
+8/26/2025 8:56:40 PM: GetCart: Retrieved JSON from session: {}
+8/26/2025 8:56:40 PM: GetCart: Deserialized cart: {}
+8/26/2025 8:56:40 PM: GetCart: Retrieved JSON from session: {}
+8/26/2025 8:56:40 PM: GetCart: Deserialized cart: {}
+8/26/2025 8:56:40 PM: Count: Current total items in cart: 0
+8/26/2025 8:56:42 PM: GetCart: Retrieved JSON from session: {}
+8/26/2025 8:56:42 PM: GetCart: Deserialized cart: {}
+8/26/2025 8:56:42 PM: Count: Current total items in cart: 0
+8/26/2025 8:56:43 PM: GetCart: Retrieved JSON from session: {}
+8/26/2025 8:56:43 PM: GetCart: Deserialized cart: {}
+8/26/2025 8:56:43 PM: Count: Current total items in cart: 0
+8/26/2025 8:56:44 PM: Add: Attempting to add product 4fc27b22-b7ba-4764-a964-ef42931580ed with quantity 1
+8/26/2025 8:56:44 PM: GetCart: Retrieved JSON from session: {}
+8/26/2025 8:56:44 PM: GetCart: Deserialized cart: {}
+8/26/2025 8:56:44 PM: Add: Product 4fc27b22-b7ba-4764-a964-ef42931580ed added. Cart before save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 8:56:44 PM: Save: Cart saved: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 8:56:44 PM: Add: Product 4fc27b22-b7ba-4764-a964-ef42931580ed added. Cart after save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 8:56:44 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 8:56:44 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 8:56:44 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 8:56:44 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 8:56:44 PM: Count: Current total items in cart: 1
+8/26/2025 8:56:49 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 8:56:49 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 8:56:49 PM: Count: Current total items in cart: 1
+8/26/2025 8:56:58 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 8:56:58 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 8:56:58 PM: Count: Current total items in cart: 1
+8/26/2025 8:57:02 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 8:57:02 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 8:57:02 PM: Count: Current total items in cart: 1
+8/26/2025 8:57:05 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 8:57:05 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 8:57:05 PM: Count: Current total items in cart: 1
+8/26/2025 8:57:06 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 8:57:06 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 8:57:06 PM: Count: Current total items in cart: 1
+8/26/2025 8:57:07 PM: Add: Attempting to add product 0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a with quantity 1
+8/26/2025 8:57:07 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 8:57:07 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 8:57:07 PM: Add: Product 0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a added. Cart before save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:57:07 PM: Save: Cart saved: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:57:07 PM: Add: Product 0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a added. Cart after save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:57:07 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:57:07 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:57:07 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:57:07 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:57:07 PM: Count: Current total items in cart: 2
+8/26/2025 8:57:10 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:57:10 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:57:10 PM: Count: Current total items in cart: 2
+8/26/2025 8:57:11 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:57:11 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:57:11 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:57:11 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:57:11 PM: Count: Current total items in cart: 2
+8/26/2025 8:57:28 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:57:28 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:57:28 PM: Count: Current total items in cart: 2
+8/26/2025 8:57:30 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:57:30 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:57:30 PM: Count: Current total items in cart: 2
+8/26/2025 8:57:46 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:57:46 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:57:46 PM: Count: Current total items in cart: 2
+8/26/2025 8:57:51 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:57:51 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:57:51 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:57:51 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:57:51 PM: Count: Current total items in cart: 2
+8/26/2025 8:57:57 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:57:57 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:57:57 PM: Count: Current total items in cart: 2
+8/26/2025 8:57:58 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:57:58 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:57:58 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:57:58 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:57:58 PM: Count: Current total items in cart: 2
+8/26/2025 8:57:59 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:57:59 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:57:59 PM: Count: Current total items in cart: 2
+8/26/2025 8:58:05 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:58:05 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:58:05 PM: Count: Current total items in cart: 2
+8/26/2025 8:58:24 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:58:24 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:58:24 PM: Count: Current total items in cart: 2
+8/26/2025 8:58:29 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:58:29 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:58:29 PM: Count: Current total items in cart: 2
+8/26/2025 8:58:35 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:58:35 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:58:35 PM: Count: Current total items in cart: 2
+8/26/2025 8:58:37 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:58:37 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:58:37 PM: Count: Current total items in cart: 2
+8/26/2025 8:58:40 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:58:40 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:58:40 PM: Count: Current total items in cart: 2
+8/26/2025 8:58:49 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:58:49 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:58:49 PM: Count: Current total items in cart: 2
+8/26/2025 8:59:02 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:59:02 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:59:02 PM: Count: Current total items in cart: 2
+8/26/2025 8:59:11 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:59:11 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:59:11 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:59:11 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 8:59:11 PM: Count: Current total items in cart: 2
+8/26/2025 9:01:50 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:01:50 PM: Count: Current total items in cart: 0
+8/26/2025 9:01:54 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:01:54 PM: Count: Current total items in cart: 0
+8/26/2025 9:01:55 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:01:55 PM: Count: Current total items in cart: 0
+8/26/2025 9:01:57 PM: Add: Attempting to add product 4fc27b22-b7ba-4764-a964-ef42931580ed with quantity 1
+8/26/2025 9:01:57 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:01:57 PM: Add: Product 4fc27b22-b7ba-4764-a964-ef42931580ed added. Cart before save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:01:57 PM: Save: Cart saved: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:01:57 PM: Add: Product 4fc27b22-b7ba-4764-a964-ef42931580ed added. Cart after save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:01:57 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:01:57 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:01:57 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:01:57 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:01:57 PM: Count: Current total items in cart: 1
+8/26/2025 9:02:08 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:02:08 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:02:08 PM: Count: Current total items in cart: 1
+8/26/2025 9:02:09 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:02:09 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:02:09 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:02:09 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:02:09 PM: Count: Current total items in cart: 1
+8/26/2025 9:02:12 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:02:12 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:02:12 PM: Count: Current total items in cart: 1
+8/26/2025 9:02:13 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:02:13 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:02:13 PM: Count: Current total items in cart: 1
+8/26/2025 9:02:13 PM: Add: Attempting to add product 4fc27b22-b7ba-4764-a964-ef42931580ed with quantity 1
+8/26/2025 9:02:13 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:02:13 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:02:13 PM: Add: Product 4fc27b22-b7ba-4764-a964-ef42931580ed added. Cart before save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 9:02:13 PM: Save: Cart saved: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 9:02:13 PM: Add: Product 4fc27b22-b7ba-4764-a964-ef42931580ed added. Cart after save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 9:02:13 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 9:02:13 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 9:02:13 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 9:02:13 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 9:02:13 PM: Count: Current total items in cart: 2
+8/26/2025 9:02:19 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 9:02:19 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 9:02:19 PM: Count: Current total items in cart: 2
+8/26/2025 9:03:26 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 9:03:26 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 9:03:26 PM: Count: Current total items in cart: 2
+8/26/2025 9:03:36 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:03:36 PM: Count: Current total items in cart: 0
+8/26/2025 9:03:41 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:03:41 PM: Count: Current total items in cart: 0
+8/26/2025 9:03:42 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:03:42 PM: Count: Current total items in cart: 0
+8/26/2025 9:03:43 PM: Add: Attempting to add product 4fc27b22-b7ba-4764-a964-ef42931580ed with quantity 1
+8/26/2025 9:03:43 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:03:43 PM: Add: Product 4fc27b22-b7ba-4764-a964-ef42931580ed added. Cart before save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:03:43 PM: Save: Cart saved: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:03:43 PM: Add: Product 4fc27b22-b7ba-4764-a964-ef42931580ed added. Cart after save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:03:43 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:03:43 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:03:43 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:03:43 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:03:43 PM: Count: Current total items in cart: 1
+8/26/2025 9:03:47 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:03:47 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:03:47 PM: Count: Current total items in cart: 1
+8/26/2025 9:03:49 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:03:49 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:03:49 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:03:49 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:03:49 PM: Count: Current total items in cart: 1
+8/26/2025 9:03:56 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:03:56 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:03:56 PM: Count: Current total items in cart: 1
+8/26/2025 9:03:58 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:03:58 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:03:58 PM: Count: Current total items in cart: 1
+8/26/2025 9:04:00 PM: Add: Attempting to add product 4fc27b22-b7ba-4764-a964-ef42931580ed with quantity 1
+8/26/2025 9:04:00 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:04:00 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:04:00 PM: Add: Product 4fc27b22-b7ba-4764-a964-ef42931580ed added. Cart before save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 9:04:00 PM: Save: Cart saved: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 9:04:00 PM: Add: Product 4fc27b22-b7ba-4764-a964-ef42931580ed added. Cart after save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 9:04:00 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 9:04:00 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 9:04:00 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 9:04:00 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 9:04:00 PM: Count: Current total items in cart: 2
+8/26/2025 9:04:20 PM: Add: Attempting to add product 4fc27b22-b7ba-4764-a964-ef42931580ed with quantity 1
+8/26/2025 9:04:20 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 9:04:20 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 9:04:20 PM: Add: Product 4fc27b22-b7ba-4764-a964-ef42931580ed added. Cart before save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":3}
+8/26/2025 9:04:20 PM: Save: Cart saved: {"4fc27b22-b7ba-4764-a964-ef42931580ed":3}
+8/26/2025 9:04:20 PM: Add: Product 4fc27b22-b7ba-4764-a964-ef42931580ed added. Cart after save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":3}
+8/26/2025 9:04:20 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":3}
+8/26/2025 9:04:20 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":3}
+8/26/2025 9:04:20 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":3}
+8/26/2025 9:04:20 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":3}
+8/26/2025 9:04:20 PM: Count: Current total items in cart: 3
+8/26/2025 9:05:32 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:05:32 PM: Count: Current total items in cart: 0
+8/26/2025 9:05:34 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:05:34 PM: Count: Current total items in cart: 0
+8/26/2025 9:05:35 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:05:35 PM: Count: Current total items in cart: 0
+8/26/2025 9:05:36 PM: Add: Attempting to add product 4fc27b22-b7ba-4764-a964-ef42931580ed with quantity 1
+8/26/2025 9:05:36 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:05:36 PM: Add: Product 4fc27b22-b7ba-4764-a964-ef42931580ed added. Cart before save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:05:36 PM: Save: Cart saved: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:05:36 PM: Add: Product 4fc27b22-b7ba-4764-a964-ef42931580ed added. Cart after save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:05:36 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:05:36 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:05:36 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:05:36 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:05:36 PM: Count: Current total items in cart: 1
+8/26/2025 9:05:39 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:05:39 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:05:39 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:05:39 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:05:39 PM: Count: Current total items in cart: 1
+8/26/2025 9:05:51 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:05:51 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:05:51 PM: Count: Current total items in cart: 1
+8/26/2025 9:05:54 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:05:54 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:05:54 PM: Count: Current total items in cart: 1
+8/26/2025 9:05:56 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:05:56 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:05:56 PM: Count: Current total items in cart: 1
+8/26/2025 9:07:23 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:07:23 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:07:23 PM: Count: Current total items in cart: 1
+8/26/2025 9:17:51 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:17:51 PM: Count: Current total items in cart: 0
+8/26/2025 9:17:55 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:17:55 PM: Count: Current total items in cart: 0
+8/26/2025 9:18:01 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:18:01 PM: Count: Current total items in cart: 0
+8/26/2025 9:18:02 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:18:02 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:18:02 PM: Count: Current total items in cart: 0
+8/26/2025 9:18:17 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:18:17 PM: Count: Current total items in cart: 0
+8/26/2025 9:18:20 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:18:20 PM: Count: Current total items in cart: 0
+8/26/2025 9:18:21 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:18:21 PM: Count: Current total items in cart: 0
+8/26/2025 9:18:21 PM: Add: Attempting to add product 4fc27b22-b7ba-4764-a964-ef42931580ed with quantity 1
+8/26/2025 9:18:21 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:18:21 PM: Add: Product 4fc27b22-b7ba-4764-a964-ef42931580ed added. Cart before save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:18:21 PM: Save: Cart saved: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:18:21 PM: Add: Product 4fc27b22-b7ba-4764-a964-ef42931580ed added. Cart after save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:18:21 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:18:21 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:18:22 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:18:22 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:18:22 PM: Count: Current total items in cart: 1
+8/26/2025 9:18:24 PM: Add: Attempting to add product 4fc27b22-b7ba-4764-a964-ef42931580ed with quantity 1
+8/26/2025 9:18:24 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:18:24 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:18:24 PM: Add: Product 4fc27b22-b7ba-4764-a964-ef42931580ed added. Cart before save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 9:18:24 PM: Save: Cart saved: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 9:18:24 PM: Add: Product 4fc27b22-b7ba-4764-a964-ef42931580ed added. Cart after save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 9:18:24 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 9:18:24 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 9:18:24 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 9:18:24 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 9:18:24 PM: Count: Current total items in cart: 2
+8/26/2025 9:18:25 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 9:18:25 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 9:18:25 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 9:18:25 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 9:18:25 PM: Count: Current total items in cart: 2
+8/26/2025 9:18:35 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 9:18:35 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 9:18:35 PM: Count: Current total items in cart: 2
+8/26/2025 9:18:36 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 9:18:36 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 9:18:36 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 9:18:36 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 9:18:36 PM: Count: Current total items in cart: 2
+8/26/2025 9:18:37 PM: Remove: Attempting to remove product 4fc27b22-b7ba-4764-a964-ef42931580ed
+8/26/2025 9:18:37 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 9:18:37 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 9:18:37 PM: Remove: Product 4fc27b22-b7ba-4764-a964-ef42931580ed removed. Cart after remove: {}
+8/26/2025 9:18:37 PM: Save: Cart saved: {}
+8/26/2025 9:18:37 PM: GetCart: Retrieved JSON from session: {}
+8/26/2025 9:18:37 PM: GetCart: Deserialized cart: {}
+8/26/2025 9:18:37 PM: GetCart: Retrieved JSON from session: {}
+8/26/2025 9:18:37 PM: GetCart: Deserialized cart: {}
+8/26/2025 9:18:37 PM: Count: Current total items in cart: 0
+8/26/2025 9:18:38 PM: GetCart: Retrieved JSON from session: {}
+8/26/2025 9:18:38 PM: GetCart: Deserialized cart: {}
+8/26/2025 9:18:38 PM: Count: Current total items in cart: 0
+8/26/2025 9:18:39 PM: GetCart: Retrieved JSON from session: {}
+8/26/2025 9:18:39 PM: GetCart: Deserialized cart: {}
+8/26/2025 9:18:39 PM: Count: Current total items in cart: 0
+8/26/2025 9:18:40 PM: Add: Attempting to add product 4fc27b22-b7ba-4764-a964-ef42931580ed with quantity 1
+8/26/2025 9:18:40 PM: GetCart: Retrieved JSON from session: {}
+8/26/2025 9:18:40 PM: GetCart: Deserialized cart: {}
+8/26/2025 9:18:40 PM: Add: Product 4fc27b22-b7ba-4764-a964-ef42931580ed added. Cart before save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:18:40 PM: Save: Cart saved: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:18:40 PM: Add: Product 4fc27b22-b7ba-4764-a964-ef42931580ed added. Cart after save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:18:40 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:18:40 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:18:40 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:18:40 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:18:40 PM: Count: Current total items in cart: 1
+8/26/2025 9:18:42 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:18:42 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:18:42 PM: Count: Current total items in cart: 1
+8/26/2025 9:18:54 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:18:54 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:18:54 PM: Count: Current total items in cart: 1
+8/26/2025 9:18:56 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:18:56 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:18:56 PM: Count: Current total items in cart: 1
+8/26/2025 9:19:08 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:19:08 PM: Count: Current total items in cart: 0
+8/26/2025 9:19:11 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:19:11 PM: Count: Current total items in cart: 0
+8/26/2025 9:19:13 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:19:13 PM: Count: Current total items in cart: 0
+8/26/2025 9:19:14 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:19:14 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:19:14 PM: Count: Current total items in cart: 0
+8/26/2025 9:19:17 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:19:17 PM: Count: Current total items in cart: 0
+8/26/2025 9:19:17 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:19:17 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:19:17 PM: Count: Current total items in cart: 0
+8/26/2025 9:19:19 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:19:19 PM: Count: Current total items in cart: 0
+8/26/2025 9:19:26 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:19:26 PM: Count: Current total items in cart: 0
+8/26/2025 9:19:27 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:19:27 PM: Count: Current total items in cart: 0
+8/26/2025 9:19:29 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:19:29 PM: Count: Current total items in cart: 0
+8/26/2025 9:19:30 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:19:30 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:19:30 PM: Count: Current total items in cart: 0
+8/26/2025 9:19:41 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:19:41 PM: Count: Current total items in cart: 0
+8/26/2025 9:19:44 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:19:44 PM: Count: Current total items in cart: 0
+8/26/2025 9:19:45 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:19:45 PM: Count: Current total items in cart: 0
+8/26/2025 9:19:46 PM: Add: Attempting to add product 4fc27b22-b7ba-4764-a964-ef42931580ed with quantity 1
+8/26/2025 9:19:46 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:19:46 PM: Add: Product 4fc27b22-b7ba-4764-a964-ef42931580ed added. Cart before save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:19:46 PM: Save: Cart saved: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:19:46 PM: Add: Product 4fc27b22-b7ba-4764-a964-ef42931580ed added. Cart after save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:19:46 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:19:46 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:19:46 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:19:46 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:19:46 PM: Count: Current total items in cart: 1
+8/26/2025 9:19:47 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:19:47 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:19:47 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:19:47 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:19:47 PM: Count: Current total items in cart: 1
+8/26/2025 9:19:49 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:19:49 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:19:49 PM: Count: Current total items in cart: 1
+8/26/2025 9:19:50 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:19:50 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:19:50 PM: Count: Current total items in cart: 1
+8/26/2025 9:19:50 PM: Add: Attempting to add product 5d449532-8900-4596-a93c-6743f337f336 with quantity 1
+8/26/2025 9:19:50 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:19:50 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:19:50 PM: Add: Product 5d449532-8900-4596-a93c-6743f337f336 added. Cart before save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:19:50 PM: Save: Cart saved: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:19:50 PM: Add: Product 5d449532-8900-4596-a93c-6743f337f336 added. Cart after save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:19:50 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:19:50 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:19:50 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:19:50 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:19:50 PM: Count: Current total items in cart: 2
+8/26/2025 9:19:51 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:19:51 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:19:51 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:19:51 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:19:51 PM: Count: Current total items in cart: 2
+8/26/2025 9:19:53 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:19:53 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:19:53 PM: Count: Current total items in cart: 2
+8/26/2025 9:19:54 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:19:54 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:19:54 PM: Count: Current total items in cart: 2
+8/26/2025 9:20:32 PM: Add: Attempting to add product 4fc27b22-b7ba-4764-a964-ef42931580ed with quantity 30
+8/26/2025 9:20:32 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:20:32 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:20:32 PM: Add: Product 4fc27b22-b7ba-4764-a964-ef42931580ed added. Cart before save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":31,"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:20:32 PM: Save: Cart saved: {"4fc27b22-b7ba-4764-a964-ef42931580ed":31,"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:20:32 PM: Add: Product 4fc27b22-b7ba-4764-a964-ef42931580ed added. Cart after save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":31,"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:20:32 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":31,"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:20:32 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":31,"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:20:32 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":31,"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:20:32 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":31,"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:20:32 PM: Count: Current total items in cart: 32
+8/26/2025 9:20:33 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":31,"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:20:33 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":31,"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:20:33 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":31,"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:20:33 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":31,"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:20:33 PM: Count: Current total items in cart: 32
+8/26/2025 9:20:35 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":31,"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:20:35 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":31,"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:20:35 PM: Count: Current total items in cart: 32
+8/26/2025 9:20:36 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":31,"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:20:36 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":31,"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:20:36 PM: Count: Current total items in cart: 32
+8/26/2025 9:21:02 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":31,"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:21:02 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":31,"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:21:02 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":31,"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:21:02 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":31,"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:21:02 PM: Count: Current total items in cart: 32
+8/26/2025 9:21:05 PM: Remove: Attempting to remove product 4fc27b22-b7ba-4764-a964-ef42931580ed
+8/26/2025 9:21:05 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":31,"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:21:05 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":31,"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:21:05 PM: Remove: Product 4fc27b22-b7ba-4764-a964-ef42931580ed removed. Cart after remove: {"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:21:05 PM: Save: Cart saved: {"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:21:05 PM: GetCart: Retrieved JSON from session: {"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:21:05 PM: GetCart: Deserialized cart: {"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:21:05 PM: GetCart: Retrieved JSON from session: {"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:21:05 PM: GetCart: Deserialized cart: {"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:21:05 PM: Count: Current total items in cart: 1
+8/26/2025 9:21:12 PM: GetCart: Retrieved JSON from session: {"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:21:12 PM: GetCart: Deserialized cart: {"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:21:12 PM: Count: Current total items in cart: 1
+8/26/2025 9:21:13 PM: GetCart: Retrieved JSON from session: {"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:21:13 PM: GetCart: Deserialized cart: {"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:21:13 PM: Count: Current total items in cart: 1
+8/26/2025 9:21:14 PM: Add: Attempting to add product 4fc27b22-b7ba-4764-a964-ef42931580ed with quantity 1
+8/26/2025 9:21:14 PM: GetCart: Retrieved JSON from session: {"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:21:14 PM: GetCart: Deserialized cart: {"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:21:14 PM: Add: Product 4fc27b22-b7ba-4764-a964-ef42931580ed added. Cart before save: {"5d449532-8900-4596-a93c-6743f337f336":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:21:14 PM: Save: Cart saved: {"5d449532-8900-4596-a93c-6743f337f336":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:21:14 PM: Add: Product 4fc27b22-b7ba-4764-a964-ef42931580ed added. Cart after save: {"5d449532-8900-4596-a93c-6743f337f336":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:21:14 PM: GetCart: Retrieved JSON from session: {"5d449532-8900-4596-a93c-6743f337f336":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:21:14 PM: GetCart: Deserialized cart: {"5d449532-8900-4596-a93c-6743f337f336":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:21:14 PM: GetCart: Retrieved JSON from session: {"5d449532-8900-4596-a93c-6743f337f336":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:21:14 PM: GetCart: Deserialized cart: {"5d449532-8900-4596-a93c-6743f337f336":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:21:14 PM: Count: Current total items in cart: 2
+8/26/2025 9:21:15 PM: GetCart: Retrieved JSON from session: {"5d449532-8900-4596-a93c-6743f337f336":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:21:15 PM: GetCart: Deserialized cart: {"5d449532-8900-4596-a93c-6743f337f336":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:21:15 PM: GetCart: Retrieved JSON from session: {"5d449532-8900-4596-a93c-6743f337f336":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:21:15 PM: GetCart: Deserialized cart: {"5d449532-8900-4596-a93c-6743f337f336":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:21:15 PM: Count: Current total items in cart: 2
+8/26/2025 9:21:46 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:21:46 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:21:46 PM: Count: Current total items in cart: 0
+8/26/2025 9:21:48 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:21:48 PM: Count: Current total items in cart: 0
+8/26/2025 9:21:49 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:21:49 PM: Count: Current total items in cart: 0
+8/26/2025 9:21:50 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:21:50 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:21:50 PM: Count: Current total items in cart: 0
+8/26/2025 9:25:24 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:25:24 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:25:24 PM: Count: Current total items in cart: 0
+8/26/2025 9:25:26 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:25:26 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:25:26 PM: Count: Current total items in cart: 0
+8/26/2025 9:25:28 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:25:28 PM: Count: Current total items in cart: 0
+8/26/2025 9:25:29 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:25:29 PM: Count: Current total items in cart: 0
+8/26/2025 9:25:30 PM: Add: Attempting to add product 4fc27b22-b7ba-4764-a964-ef42931580ed with quantity 1
+8/26/2025 9:25:30 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:25:30 PM: Add: Product 4fc27b22-b7ba-4764-a964-ef42931580ed added. Cart before save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:25:30 PM: Save: Cart saved: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:25:30 PM: Add: Product 4fc27b22-b7ba-4764-a964-ef42931580ed added. Cart after save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:25:30 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:25:30 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:25:30 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:25:30 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:25:30 PM: Count: Current total items in cart: 1
+8/26/2025 9:25:31 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:25:31 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:25:31 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:25:31 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:25:31 PM: Count: Current total items in cart: 1
+8/26/2025 9:25:33 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:25:33 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:25:33 PM: Count: Current total items in cart: 1
+8/26/2025 9:25:36 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:25:36 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:25:36 PM: Count: Current total items in cart: 1
+8/26/2025 9:25:37 PM: Add: Attempting to add product 0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a with quantity 1
+8/26/2025 9:25:37 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:25:37 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:25:37 PM: Add: Product 0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a added. Cart before save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 9:25:37 PM: Save: Cart saved: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 9:25:37 PM: Add: Product 0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a added. Cart after save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 9:25:37 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 9:25:37 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 9:25:37 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 9:25:37 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 9:25:37 PM: Count: Current total items in cart: 2
+8/26/2025 9:25:41 PM: Add: Attempting to add product 0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a with quantity 1
+8/26/2025 9:25:41 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 9:25:41 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 9:25:41 PM: Add: Product 0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a added. Cart before save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":2}
+8/26/2025 9:25:41 PM: Save: Cart saved: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":2}
+8/26/2025 9:25:41 PM: Add: Product 0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a added. Cart after save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":2}
+8/26/2025 9:25:41 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":2}
+8/26/2025 9:25:41 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":2}
+8/26/2025 9:25:41 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":2}
+8/26/2025 9:25:41 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":2}
+8/26/2025 9:25:41 PM: Count: Current total items in cart: 3
+8/26/2025 9:25:45 PM: Add: Attempting to add product 0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a with quantity 1
+8/26/2025 9:25:45 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":2}
+8/26/2025 9:25:45 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":2}
+8/26/2025 9:25:45 PM: Add: Product 0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a added. Cart before save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":3}
+8/26/2025 9:25:45 PM: Save: Cart saved: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":3}
+8/26/2025 9:25:45 PM: Add: Product 0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a added. Cart after save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":3}
+8/26/2025 9:25:45 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":3}
+8/26/2025 9:25:45 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":3}
+8/26/2025 9:25:45 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":3}
+8/26/2025 9:25:45 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":3}
+8/26/2025 9:25:45 PM: Count: Current total items in cart: 4
+8/26/2025 9:25:46 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":3}
+8/26/2025 9:25:46 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":3}
+8/26/2025 9:25:46 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":3}
+8/26/2025 9:25:46 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":3}
+8/26/2025 9:25:46 PM: Count: Current total items in cart: 4
+8/26/2025 9:28:01 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":3}
+8/26/2025 9:28:01 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":3}
+8/26/2025 9:28:01 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":3}
+8/26/2025 9:28:01 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":3}
+8/26/2025 9:28:01 PM: Count: Current total items in cart: 4
+8/26/2025 9:28:43 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":3}
+8/26/2025 9:28:43 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":3}
+8/26/2025 9:28:43 PM: Count: Current total items in cart: 4
+8/26/2025 9:39:23 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:39:23 PM: Count: Current total items in cart: 0
+8/26/2025 9:39:25 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:39:25 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:39:25 PM: Count: Current total items in cart: 0
+8/26/2025 9:39:26 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:39:26 PM: Count: Current total items in cart: 0
+8/26/2025 9:39:38 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:39:38 PM: Count: Current total items in cart: 0
+8/26/2025 9:39:40 PM: Add: Attempting to add product 5d449532-8900-4596-a93c-6743f337f336 with quantity 1
+8/26/2025 9:39:40 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:39:40 PM: Add: Product 5d449532-8900-4596-a93c-6743f337f336 added. Cart before save: {"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:39:40 PM: Save: Cart saved: {"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:39:40 PM: Add: Product 5d449532-8900-4596-a93c-6743f337f336 added. Cart after save: {"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:39:40 PM: GetCart: Retrieved JSON from session: {"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:39:40 PM: GetCart: Deserialized cart: {"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:39:40 PM: GetCart: Retrieved JSON from session: {"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:39:40 PM: GetCart: Deserialized cart: {"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:39:40 PM: Count: Current total items in cart: 1
+8/26/2025 9:39:42 PM: GetCart: Retrieved JSON from session: {"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:39:42 PM: GetCart: Deserialized cart: {"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:39:42 PM: GetCart: Retrieved JSON from session: {"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:39:42 PM: GetCart: Deserialized cart: {"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:39:42 PM: Count: Current total items in cart: 1
+8/26/2025 9:39:43 PM: GetCart: Retrieved JSON from session: {"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:39:43 PM: GetCart: Deserialized cart: {"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:39:43 PM: Count: Current total items in cart: 1
+8/26/2025 9:39:44 PM: Add: Attempting to add product 5d449532-8900-4596-a93c-6743f337f336 with quantity 1
+8/26/2025 9:39:44 PM: GetCart: Retrieved JSON from session: {"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:39:44 PM: GetCart: Deserialized cart: {"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:39:44 PM: Add: Product 5d449532-8900-4596-a93c-6743f337f336 added. Cart before save: {"5d449532-8900-4596-a93c-6743f337f336":2}
+8/26/2025 9:39:44 PM: Save: Cart saved: {"5d449532-8900-4596-a93c-6743f337f336":2}
+8/26/2025 9:39:44 PM: Add: Product 5d449532-8900-4596-a93c-6743f337f336 added. Cart after save: {"5d449532-8900-4596-a93c-6743f337f336":2}
+8/26/2025 9:39:44 PM: GetCart: Retrieved JSON from session: {"5d449532-8900-4596-a93c-6743f337f336":2}
+8/26/2025 9:39:44 PM: GetCart: Deserialized cart: {"5d449532-8900-4596-a93c-6743f337f336":2}
+8/26/2025 9:39:46 PM: GetCart: Retrieved JSON from session: {"5d449532-8900-4596-a93c-6743f337f336":2}
+8/26/2025 9:39:46 PM: GetCart: Deserialized cart: {"5d449532-8900-4596-a93c-6743f337f336":2}
+8/26/2025 9:39:46 PM: GetCart: Retrieved JSON from session: {"5d449532-8900-4596-a93c-6743f337f336":2}
+8/26/2025 9:39:46 PM: GetCart: Deserialized cart: {"5d449532-8900-4596-a93c-6743f337f336":2}
+8/26/2025 9:39:46 PM: Count: Current total items in cart: 2
+8/26/2025 9:39:47 PM: GetCart: Retrieved JSON from session: {"5d449532-8900-4596-a93c-6743f337f336":2}
+8/26/2025 9:39:47 PM: GetCart: Deserialized cart: {"5d449532-8900-4596-a93c-6743f337f336":2}
+8/26/2025 9:39:47 PM: Count: Current total items in cart: 2
+8/26/2025 9:39:48 PM: Add: Attempting to add product 4fc27b22-b7ba-4764-a964-ef42931580ed with quantity 1
+8/26/2025 9:39:48 PM: GetCart: Retrieved JSON from session: {"5d449532-8900-4596-a93c-6743f337f336":2}
+8/26/2025 9:39:48 PM: GetCart: Deserialized cart: {"5d449532-8900-4596-a93c-6743f337f336":2}
+8/26/2025 9:39:48 PM: Add: Product 4fc27b22-b7ba-4764-a964-ef42931580ed added. Cart before save: {"5d449532-8900-4596-a93c-6743f337f336":2,"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:39:48 PM: Save: Cart saved: {"5d449532-8900-4596-a93c-6743f337f336":2,"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:39:48 PM: Add: Product 4fc27b22-b7ba-4764-a964-ef42931580ed added. Cart after save: {"5d449532-8900-4596-a93c-6743f337f336":2,"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:39:48 PM: GetCart: Retrieved JSON from session: {"5d449532-8900-4596-a93c-6743f337f336":2,"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:39:48 PM: GetCart: Deserialized cart: {"5d449532-8900-4596-a93c-6743f337f336":2,"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:39:56 PM: Add: Attempting to add product 0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a with quantity 1
+8/26/2025 9:39:56 PM: GetCart: Retrieved JSON from session: {"5d449532-8900-4596-a93c-6743f337f336":2,"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:39:56 PM: GetCart: Deserialized cart: {"5d449532-8900-4596-a93c-6743f337f336":2,"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:39:56 PM: Add: Product 0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a added. Cart before save: {"5d449532-8900-4596-a93c-6743f337f336":2,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 9:39:56 PM: Save: Cart saved: {"5d449532-8900-4596-a93c-6743f337f336":2,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 9:39:56 PM: Add: Product 0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a added. Cart after save: {"5d449532-8900-4596-a93c-6743f337f336":2,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 9:39:56 PM: GetCart: Retrieved JSON from session: {"5d449532-8900-4596-a93c-6743f337f336":2,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 9:39:56 PM: GetCart: Deserialized cart: {"5d449532-8900-4596-a93c-6743f337f336":2,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 9:39:57 PM: Add: Attempting to add product 5ad1d6de-c04e-428c-965c-99b714efeec8 with quantity 1
+8/26/2025 9:39:57 PM: GetCart: Retrieved JSON from session: {"5d449532-8900-4596-a93c-6743f337f336":2,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 9:39:57 PM: GetCart: Deserialized cart: {"5d449532-8900-4596-a93c-6743f337f336":2,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 9:39:57 PM: Add: Product 5ad1d6de-c04e-428c-965c-99b714efeec8 added. Cart before save: {"5d449532-8900-4596-a93c-6743f337f336":2,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+8/26/2025 9:39:57 PM: Save: Cart saved: {"5d449532-8900-4596-a93c-6743f337f336":2,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+8/26/2025 9:39:57 PM: Add: Product 5ad1d6de-c04e-428c-965c-99b714efeec8 added. Cart after save: {"5d449532-8900-4596-a93c-6743f337f336":2,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+8/26/2025 9:39:57 PM: GetCart: Retrieved JSON from session: {"5d449532-8900-4596-a93c-6743f337f336":2,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+8/26/2025 9:39:57 PM: GetCart: Deserialized cart: {"5d449532-8900-4596-a93c-6743f337f336":2,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+8/26/2025 9:39:58 PM: Add: Attempting to add product 688bbaa6-c15d-40da-9e0a-318a8f4ec7c4 with quantity 1
+8/26/2025 9:39:58 PM: GetCart: Retrieved JSON from session: {"5d449532-8900-4596-a93c-6743f337f336":2,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+8/26/2025 9:39:58 PM: GetCart: Deserialized cart: {"5d449532-8900-4596-a93c-6743f337f336":2,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+8/26/2025 9:39:58 PM: Add: Product 688bbaa6-c15d-40da-9e0a-318a8f4ec7c4 added. Cart before save: {"5d449532-8900-4596-a93c-6743f337f336":2,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+8/26/2025 9:39:58 PM: Save: Cart saved: {"5d449532-8900-4596-a93c-6743f337f336":2,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+8/26/2025 9:39:58 PM: Add: Product 688bbaa6-c15d-40da-9e0a-318a8f4ec7c4 added. Cart after save: {"5d449532-8900-4596-a93c-6743f337f336":2,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+8/26/2025 9:39:58 PM: GetCart: Retrieved JSON from session: {"5d449532-8900-4596-a93c-6743f337f336":2,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+8/26/2025 9:39:58 PM: GetCart: Deserialized cart: {"5d449532-8900-4596-a93c-6743f337f336":2,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+8/26/2025 9:39:58 PM: Add: Attempting to add product 85c79b39-1a22-4f70-bb9b-83fdc5ecea39 with quantity 1
+8/26/2025 9:39:58 PM: GetCart: Retrieved JSON from session: {"5d449532-8900-4596-a93c-6743f337f336":2,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+8/26/2025 9:39:58 PM: GetCart: Deserialized cart: {"5d449532-8900-4596-a93c-6743f337f336":2,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+8/26/2025 9:39:58 PM: Add: Product 85c79b39-1a22-4f70-bb9b-83fdc5ecea39 added. Cart before save: {"5d449532-8900-4596-a93c-6743f337f336":2,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1,"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":1}
+8/26/2025 9:39:58 PM: Save: Cart saved: {"5d449532-8900-4596-a93c-6743f337f336":2,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1,"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":1}
+8/26/2025 9:39:58 PM: Add: Product 85c79b39-1a22-4f70-bb9b-83fdc5ecea39 added. Cart after save: {"5d449532-8900-4596-a93c-6743f337f336":2,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1,"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":1}
+8/26/2025 9:39:58 PM: GetCart: Retrieved JSON from session: {"5d449532-8900-4596-a93c-6743f337f336":2,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1,"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":1}
+8/26/2025 9:39:58 PM: GetCart: Deserialized cart: {"5d449532-8900-4596-a93c-6743f337f336":2,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1,"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":1}
+8/26/2025 9:39:59 PM: Add: Attempting to add product 0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a with quantity 1
+8/26/2025 9:39:59 PM: GetCart: Retrieved JSON from session: {"5d449532-8900-4596-a93c-6743f337f336":2,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1,"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":1}
+8/26/2025 9:39:59 PM: GetCart: Deserialized cart: {"5d449532-8900-4596-a93c-6743f337f336":2,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1,"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":1}
+8/26/2025 9:39:59 PM: Add: Product 0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a added. Cart before save: {"5d449532-8900-4596-a93c-6743f337f336":2,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":2,"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1,"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":1}
+8/26/2025 9:39:59 PM: Save: Cart saved: {"5d449532-8900-4596-a93c-6743f337f336":2,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":2,"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1,"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":1}
+8/26/2025 9:39:59 PM: Add: Product 0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a added. Cart after save: {"5d449532-8900-4596-a93c-6743f337f336":2,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":2,"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1,"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":1}
+8/26/2025 9:39:59 PM: GetCart: Retrieved JSON from session: {"5d449532-8900-4596-a93c-6743f337f336":2,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":2,"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1,"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":1}
+8/26/2025 9:39:59 PM: GetCart: Deserialized cart: {"5d449532-8900-4596-a93c-6743f337f336":2,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":2,"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1,"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":1}
+8/26/2025 9:40:06 PM: GetCart: Retrieved JSON from session: {"5d449532-8900-4596-a93c-6743f337f336":2,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":2,"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1,"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":1}
+8/26/2025 9:40:06 PM: GetCart: Deserialized cart: {"5d449532-8900-4596-a93c-6743f337f336":2,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":2,"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1,"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":1}
+8/26/2025 9:40:06 PM: Count: Current total items in cart: 8
+8/26/2025 9:41:28 PM: GetCart: Retrieved JSON from session: {"5d449532-8900-4596-a93c-6743f337f336":2,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":2,"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1,"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":1}
+8/26/2025 9:41:28 PM: GetCart: Deserialized cart: {"5d449532-8900-4596-a93c-6743f337f336":2,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":2,"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1,"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":1}
+8/26/2025 9:41:28 PM: Count: Current total items in cart: 8
+8/26/2025 9:42:28 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:42:28 PM: Count: Current total items in cart: 0
+8/26/2025 9:42:31 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:42:31 PM: Count: Current total items in cart: 0
+8/26/2025 9:42:33 PM: Add: Attempting to add product 4fc27b22-b7ba-4764-a964-ef42931580ed with quantity 1
+8/26/2025 9:42:33 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:42:33 PM: Add: Product 4fc27b22-b7ba-4764-a964-ef42931580ed added. Cart before save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:42:33 PM: Save: Cart saved: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:42:33 PM: Add: Product 4fc27b22-b7ba-4764-a964-ef42931580ed added. Cart after save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:42:33 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:42:33 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:42:34 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:42:34 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:42:34 PM: Count: Current total items in cart: 1
+8/26/2025 9:42:35 PM: Add: Attempting to add product 4fc27b22-b7ba-4764-a964-ef42931580ed with quantity 1
+8/26/2025 9:42:35 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:42:35 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:42:35 PM: Add: Product 4fc27b22-b7ba-4764-a964-ef42931580ed added. Cart before save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 9:42:35 PM: Save: Cart saved: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 9:42:35 PM: Add: Product 4fc27b22-b7ba-4764-a964-ef42931580ed added. Cart after save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 9:42:35 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 9:42:35 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 9:43:42 PM: Add: Attempting to add product 4fc27b22-b7ba-4764-a964-ef42931580ed with quantity 1
+8/26/2025 9:43:42 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 9:43:42 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":2}
+8/26/2025 9:43:42 PM: Add: Product 4fc27b22-b7ba-4764-a964-ef42931580ed added. Cart before save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":3}
+8/26/2025 9:43:42 PM: Save: Cart saved: {"4fc27b22-b7ba-4764-a964-ef42931580ed":3}
+8/26/2025 9:43:42 PM: Add: Product 4fc27b22-b7ba-4764-a964-ef42931580ed added. Cart after save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":3}
+8/26/2025 9:43:42 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":3}
+8/26/2025 9:43:42 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":3}
+8/26/2025 9:43:44 PM: Add: Attempting to add product 4fc27b22-b7ba-4764-a964-ef42931580ed with quantity 1
+8/26/2025 9:43:44 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":3}
+8/26/2025 9:43:44 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":3}
+8/26/2025 9:43:44 PM: Add: Product 4fc27b22-b7ba-4764-a964-ef42931580ed added. Cart before save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":4}
+8/26/2025 9:43:44 PM: Save: Cart saved: {"4fc27b22-b7ba-4764-a964-ef42931580ed":4}
+8/26/2025 9:43:44 PM: Add: Product 4fc27b22-b7ba-4764-a964-ef42931580ed added. Cart after save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":4}
+8/26/2025 9:43:44 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":4}
+8/26/2025 9:43:44 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":4}
+8/26/2025 9:43:47 PM: Add: Attempting to add product 4fc27b22-b7ba-4764-a964-ef42931580ed with quantity 1
+8/26/2025 9:43:47 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":4}
+8/26/2025 9:43:47 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":4}
+8/26/2025 9:43:47 PM: Add: Product 4fc27b22-b7ba-4764-a964-ef42931580ed added. Cart before save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":5}
+8/26/2025 9:43:47 PM: Save: Cart saved: {"4fc27b22-b7ba-4764-a964-ef42931580ed":5}
+8/26/2025 9:43:47 PM: Add: Product 4fc27b22-b7ba-4764-a964-ef42931580ed added. Cart after save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":5}
+8/26/2025 9:43:47 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":5}
+8/26/2025 9:43:47 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":5}
+8/26/2025 9:43:50 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":5}
+8/26/2025 9:43:50 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":5}
+8/26/2025 9:43:50 PM: Count: Current total items in cart: 5
+8/26/2025 9:43:51 PM: Add: Attempting to add product 85c79b39-1a22-4f70-bb9b-83fdc5ecea39 with quantity 1
+8/26/2025 9:43:51 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":5}
+8/26/2025 9:43:51 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":5}
+8/26/2025 9:43:51 PM: Add: Product 85c79b39-1a22-4f70-bb9b-83fdc5ecea39 added. Cart before save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":5,"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":1}
+8/26/2025 9:43:51 PM: Save: Cart saved: {"4fc27b22-b7ba-4764-a964-ef42931580ed":5,"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":1}
+8/26/2025 9:43:51 PM: Add: Product 85c79b39-1a22-4f70-bb9b-83fdc5ecea39 added. Cart after save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":5,"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":1}
+8/26/2025 9:43:51 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":5,"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":1}
+8/26/2025 9:43:51 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":5,"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":1}
+8/26/2025 9:43:52 PM: Add: Attempting to add product 688bbaa6-c15d-40da-9e0a-318a8f4ec7c4 with quantity 1
+8/26/2025 9:43:52 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":5,"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":1}
+8/26/2025 9:43:52 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":5,"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":1}
+8/26/2025 9:43:52 PM: Add: Product 688bbaa6-c15d-40da-9e0a-318a8f4ec7c4 added. Cart before save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":5,"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+8/26/2025 9:43:52 PM: Save: Cart saved: {"4fc27b22-b7ba-4764-a964-ef42931580ed":5,"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+8/26/2025 9:43:52 PM: Add: Product 688bbaa6-c15d-40da-9e0a-318a8f4ec7c4 added. Cart after save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":5,"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+8/26/2025 9:43:52 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":5,"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+8/26/2025 9:43:52 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":5,"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+8/26/2025 9:44:28 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":5,"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+8/26/2025 9:44:28 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":5,"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+8/26/2025 9:44:28 PM: Count: Current total items in cart: 7
+8/26/2025 9:49:58 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:49:58 PM: Count: Current total items in cart: 0
+8/26/2025 9:50:45 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:50:45 PM: Count: Current total items in cart: 0
+8/26/2025 9:51:23 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:51:23 PM: Count: Current total items in cart: 0
+8/26/2025 9:54:16 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:54:16 PM: Count: Current total items in cart: 0
+8/26/2025 9:55:21 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:55:21 PM: Count: Current total items in cart: 0
+8/26/2025 9:55:23 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:55:23 PM: Count: Current total items in cart: 0
+8/26/2025 9:55:27 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:55:27 PM: Count: Current total items in cart: 0
+8/26/2025 9:55:36 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:55:36 PM: Count: Current total items in cart: 0
+8/26/2025 9:55:38 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:55:38 PM: Count: Current total items in cart: 0
+8/26/2025 9:55:43 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:55:43 PM: Count: Current total items in cart: 0
+8/26/2025 9:56:01 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:56:01 PM: Count: Current total items in cart: 0
+8/26/2025 9:56:04 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:56:04 PM: Count: Current total items in cart: 0
+8/26/2025 9:56:22 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:56:22 PM: Count: Current total items in cart: 0
+8/26/2025 9:56:24 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:56:24 PM: Count: Current total items in cart: 0
+8/26/2025 9:56:43 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:56:43 PM: Count: Current total items in cart: 0
+8/26/2025 9:56:47 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:56:47 PM: Count: Current total items in cart: 0
+8/26/2025 9:57:02 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:57:02 PM: Count: Current total items in cart: 0
+8/26/2025 9:57:05 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:57:05 PM: Count: Current total items in cart: 0
+8/26/2025 9:57:19 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:57:19 PM: Count: Current total items in cart: 0
+8/26/2025 9:57:21 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:57:21 PM: Count: Current total items in cart: 0
+8/26/2025 9:57:41 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:57:41 PM: Count: Current total items in cart: 0
+8/26/2025 9:57:45 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:57:45 PM: Count: Current total items in cart: 0
+8/26/2025 9:57:46 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:57:46 PM: Count: Current total items in cart: 0
+8/26/2025 9:57:49 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:57:49 PM: Count: Current total items in cart: 0
+8/26/2025 9:57:55 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:57:55 PM: Count: Current total items in cart: 0
+8/26/2025 9:58:08 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:58:08 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:58:08 PM: Count: Current total items in cart: 0
+8/26/2025 9:58:09 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:58:09 PM: Count: Current total items in cart: 0
+8/26/2025 9:58:11 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:58:11 PM: Count: Current total items in cart: 0
+8/26/2025 9:58:12 PM: Add: Attempting to add product 5ad1d6de-c04e-428c-965c-99b714efeec8 with quantity 1
+8/26/2025 9:58:12 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 9:58:12 PM: Add: Product 5ad1d6de-c04e-428c-965c-99b714efeec8 added. Cart before save: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+8/26/2025 9:58:12 PM: Save: Cart saved: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+8/26/2025 9:58:12 PM: Add: Product 5ad1d6de-c04e-428c-965c-99b714efeec8 added. Cart after save: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+8/26/2025 9:58:12 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+8/26/2025 9:58:12 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+8/26/2025 9:58:13 PM: Add: Attempting to add product 0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a with quantity 1
+8/26/2025 9:58:13 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+8/26/2025 9:58:13 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+8/26/2025 9:58:13 PM: Add: Product 0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a added. Cart before save: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 9:58:13 PM: Save: Cart saved: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 9:58:13 PM: Add: Product 0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a added. Cart after save: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 9:58:13 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 9:58:13 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 9:58:14 PM: Add: Attempting to add product 4fc27b22-b7ba-4764-a964-ef42931580ed with quantity 1
+8/26/2025 9:58:14 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 9:58:14 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 9:58:14 PM: Add: Product 4fc27b22-b7ba-4764-a964-ef42931580ed added. Cart before save: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:58:14 PM: Save: Cart saved: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:58:14 PM: Add: Product 4fc27b22-b7ba-4764-a964-ef42931580ed added. Cart after save: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:58:14 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:58:14 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:58:15 PM: Add: Attempting to add product 85c79b39-1a22-4f70-bb9b-83fdc5ecea39 with quantity 1
+8/26/2025 9:58:15 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:58:15 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 9:58:15 PM: Add: Product 85c79b39-1a22-4f70-bb9b-83fdc5ecea39 added. Cart before save: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":1}
+8/26/2025 9:58:15 PM: Save: Cart saved: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":1}
+8/26/2025 9:58:15 PM: Add: Product 85c79b39-1a22-4f70-bb9b-83fdc5ecea39 added. Cart after save: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":1}
+8/26/2025 9:58:15 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":1}
+8/26/2025 9:58:15 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":1}
+8/26/2025 9:58:17 PM: Add: Attempting to add product 688bbaa6-c15d-40da-9e0a-318a8f4ec7c4 with quantity 1
+8/26/2025 9:58:17 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":1}
+8/26/2025 9:58:17 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":1}
+8/26/2025 9:58:17 PM: Add: Product 688bbaa6-c15d-40da-9e0a-318a8f4ec7c4 added. Cart before save: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+8/26/2025 9:58:17 PM: Save: Cart saved: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+8/26/2025 9:58:17 PM: Add: Product 688bbaa6-c15d-40da-9e0a-318a8f4ec7c4 added. Cart after save: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+8/26/2025 9:58:17 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+8/26/2025 9:58:17 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+8/26/2025 9:58:18 PM: Add: Attempting to add product 5d449532-8900-4596-a93c-6743f337f336 with quantity 1
+8/26/2025 9:58:18 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+8/26/2025 9:58:18 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+8/26/2025 9:58:18 PM: Add: Product 5d449532-8900-4596-a93c-6743f337f336 added. Cart before save: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1,"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:58:18 PM: Save: Cart saved: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1,"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:58:18 PM: Add: Product 5d449532-8900-4596-a93c-6743f337f336 added. Cart after save: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1,"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:58:18 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1,"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 9:58:18 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1,"5d449532-8900-4596-a93c-6743f337f336":1}
+8/26/2025 10:00:16 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 10:00:16 PM: Count: Current total items in cart: 0
+8/26/2025 10:00:28 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 10:00:28 PM: Count: Current total items in cart: 0
+8/26/2025 10:00:34 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 10:00:34 PM: Count: Current total items in cart: 0
+8/26/2025 10:00:41 PM: Add: Attempting to add product 85c79b39-1a22-4f70-bb9b-83fdc5ecea39 with quantity 1
+8/26/2025 10:00:41 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 10:00:41 PM: Add: Product 85c79b39-1a22-4f70-bb9b-83fdc5ecea39 added. Cart before save: {"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":1}
+8/26/2025 10:00:41 PM: Save: Cart saved: {"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":1}
+8/26/2025 10:00:41 PM: Add: Product 85c79b39-1a22-4f70-bb9b-83fdc5ecea39 added. Cart after save: {"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":1}
+8/26/2025 10:00:41 PM: GetCart: Retrieved JSON from session: {"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":1}
+8/26/2025 10:00:41 PM: GetCart: Deserialized cart: {"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":1}
+8/26/2025 10:02:57 PM: Add: Attempting to add product 85c79b39-1a22-4f70-bb9b-83fdc5ecea39 with quantity 1
+8/26/2025 10:02:57 PM: GetCart: Retrieved JSON from session: {"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":1}
+8/26/2025 10:02:57 PM: GetCart: Deserialized cart: {"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":1}
+8/26/2025 10:02:57 PM: Add: Product 85c79b39-1a22-4f70-bb9b-83fdc5ecea39 added. Cart before save: {"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":2}
+8/26/2025 10:02:57 PM: Save: Cart saved: {"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":2}
+8/26/2025 10:02:57 PM: Add: Product 85c79b39-1a22-4f70-bb9b-83fdc5ecea39 added. Cart after save: {"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":2}
+8/26/2025 10:02:57 PM: GetCart: Retrieved JSON from session: {"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":2}
+8/26/2025 10:02:57 PM: GetCart: Deserialized cart: {"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":2}
+8/26/2025 10:02:59 PM: Add: Attempting to add product 85c79b39-1a22-4f70-bb9b-83fdc5ecea39 with quantity 1
+8/26/2025 10:02:59 PM: GetCart: Retrieved JSON from session: {"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":2}
+8/26/2025 10:02:59 PM: GetCart: Deserialized cart: {"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":2}
+8/26/2025 10:02:59 PM: Add: Product 85c79b39-1a22-4f70-bb9b-83fdc5ecea39 added. Cart before save: {"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":3}
+8/26/2025 10:02:59 PM: Save: Cart saved: {"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":3}
+8/26/2025 10:02:59 PM: Add: Product 85c79b39-1a22-4f70-bb9b-83fdc5ecea39 added. Cart after save: {"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":3}
+8/26/2025 10:02:59 PM: GetCart: Retrieved JSON from session: {"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":3}
+8/26/2025 10:02:59 PM: GetCart: Deserialized cart: {"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":3}
+8/26/2025 10:04:06 PM: GetCart: Retrieved JSON from session: {"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":3}
+8/26/2025 10:04:06 PM: GetCart: Deserialized cart: {"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":3}
+8/26/2025 10:04:06 PM: Count: Current total items in cart: 3
+8/26/2025 10:04:07 PM: Add: Attempting to add product 4fc27b22-b7ba-4764-a964-ef42931580ed with quantity 1
+8/26/2025 10:04:07 PM: GetCart: Retrieved JSON from session: {"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":3}
+8/26/2025 10:04:07 PM: GetCart: Deserialized cart: {"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":3}
+8/26/2025 10:04:07 PM: Add: Product 4fc27b22-b7ba-4764-a964-ef42931580ed added. Cart before save: {"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":3,"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 10:04:07 PM: Save: Cart saved: {"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":3,"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 10:04:07 PM: Add: Product 4fc27b22-b7ba-4764-a964-ef42931580ed added. Cart after save: {"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":3,"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 10:04:07 PM: GetCart: Retrieved JSON from session: {"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":3,"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 10:04:07 PM: GetCart: Deserialized cart: {"85c79b39-1a22-4f70-bb9b-83fdc5ecea39":3,"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 10:07:32 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 10:07:32 PM: Count: Current total items in cart: 0
+8/26/2025 10:07:34 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 10:07:34 PM: Count: Current total items in cart: 0
+8/26/2025 10:07:35 PM: Add: Attempting to add product 4fc27b22-b7ba-4764-a964-ef42931580ed with quantity 1
+8/26/2025 10:07:35 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 10:07:35 PM: Add: Product 4fc27b22-b7ba-4764-a964-ef42931580ed added. Cart before save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 10:07:35 PM: Save: Cart saved: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 10:07:35 PM: Add: Product 4fc27b22-b7ba-4764-a964-ef42931580ed added. Cart after save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 10:07:35 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 10:07:35 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 10:07:37 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 10:07:37 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 10:07:37 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 10:07:37 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 10:07:37 PM: Count: Current total items in cart: 1
+8/26/2025 10:07:44 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 10:07:44 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 10:07:44 PM: Count: Current total items in cart: 1
+8/26/2025 10:07:46 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 10:07:46 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 10:07:46 PM: Count: Current total items in cart: 1
+8/26/2025 10:07:47 PM: Add: Attempting to add product 5ad1d6de-c04e-428c-965c-99b714efeec8 with quantity 1
+8/26/2025 10:07:47 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 10:07:47 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+8/26/2025 10:07:47 PM: Add: Product 5ad1d6de-c04e-428c-965c-99b714efeec8 added. Cart before save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+8/26/2025 10:07:47 PM: Save: Cart saved: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+8/26/2025 10:07:47 PM: Add: Product 5ad1d6de-c04e-428c-965c-99b714efeec8 added. Cart after save: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+8/26/2025 10:07:47 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+8/26/2025 10:07:47 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+8/26/2025 10:07:49 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+8/26/2025 10:07:49 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+8/26/2025 10:07:49 PM: Count: Current total items in cart: 2
+8/26/2025 10:07:57 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+8/26/2025 10:07:57 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+8/26/2025 10:07:57 PM: Count: Current total items in cart: 2
+8/26/2025 10:08:17 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+8/26/2025 10:08:17 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+8/26/2025 10:08:17 PM: Count: Current total items in cart: 2
+8/26/2025 10:08:18 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+8/26/2025 10:08:18 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+8/26/2025 10:08:18 PM: Count: Current total items in cart: 2
+8/26/2025 10:08:20 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+8/26/2025 10:08:20 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+8/26/2025 10:08:20 PM: Count: Current total items in cart: 2
+8/26/2025 10:08:23 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+8/26/2025 10:08:23 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+8/26/2025 10:08:23 PM: Count: Current total items in cart: 2
+8/26/2025 10:08:24 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+8/26/2025 10:08:24 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+8/26/2025 10:08:24 PM: Count: Current total items in cart: 2
+8/26/2025 10:08:28 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+8/26/2025 10:08:28 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+8/26/2025 10:08:28 PM: GetCart: Retrieved JSON from session: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+8/26/2025 10:08:28 PM: GetCart: Deserialized cart: {"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+8/26/2025 10:08:28 PM: Count: Current total items in cart: 2
+8/26/2025 10:08:30 PM: Clear: Attempting to clear cart.
+8/26/2025 10:08:30 PM: Save: Cart saved: {}
+8/26/2025 10:08:30 PM: Clear: Cart cleared.
+8/26/2025 10:08:30 PM: GetCart: Retrieved JSON from session: {}
+8/26/2025 10:08:30 PM: GetCart: Deserialized cart: {}
+8/26/2025 10:08:30 PM: GetCart: Retrieved JSON from session: {}
+8/26/2025 10:08:30 PM: GetCart: Deserialized cart: {}
+8/26/2025 10:08:30 PM: Count: Current total items in cart: 0
+8/26/2025 10:08:32 PM: GetCart: Retrieved JSON from session: {}
+8/26/2025 10:08:32 PM: GetCart: Deserialized cart: {}
+8/26/2025 10:08:32 PM: Count: Current total items in cart: 0
+8/26/2025 10:08:35 PM: GetCart: Retrieved JSON from session: {}
+8/26/2025 10:08:35 PM: GetCart: Deserialized cart: {}
+8/26/2025 10:08:35 PM: Count: Current total items in cart: 0
+8/26/2025 10:09:02 PM: GetCart: Retrieved JSON from session: {}
+8/26/2025 10:09:02 PM: GetCart: Deserialized cart: {}
+8/26/2025 10:09:02 PM: Count: Current total items in cart: 0
+8/26/2025 10:09:16 PM: GetCart: Retrieved JSON from session: {}
+8/26/2025 10:09:16 PM: GetCart: Deserialized cart: {}
+8/26/2025 10:09:16 PM: Count: Current total items in cart: 0
+8/26/2025 10:09:20 PM: GetCart: Retrieved JSON from session: {}
+8/26/2025 10:09:20 PM: GetCart: Deserialized cart: {}
+8/26/2025 10:09:20 PM: Count: Current total items in cart: 0
+8/26/2025 10:09:41 PM: GetCart: Retrieved JSON from session: {}
+8/26/2025 10:09:41 PM: GetCart: Deserialized cart: {}
+8/26/2025 10:09:41 PM: Count: Current total items in cart: 0
+8/26/2025 10:12:33 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 10:12:33 PM: Count: Current total items in cart: 0
+8/26/2025 10:12:37 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 10:12:37 PM: Count: Current total items in cart: 0
+8/26/2025 10:12:39 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 10:12:39 PM: Count: Current total items in cart: 0
+8/26/2025 10:12:47 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 10:12:47 PM: Count: Current total items in cart: 0
+8/26/2025 10:14:44 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 10:14:44 PM: Count: Current total items in cart: 0
+8/26/2025 10:16:02 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 10:16:02 PM: Count: Current total items in cart: 0
+8/26/2025 10:16:05 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 10:16:05 PM: Count: Current total items in cart: 0
+8/26/2025 10:16:14 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 10:16:14 PM: Count: Current total items in cart: 0
+8/26/2025 10:16:19 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 10:16:19 PM: Count: Current total items in cart: 0
+8/26/2025 10:16:20 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 10:16:20 PM: Count: Current total items in cart: 0
+8/26/2025 10:16:23 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 10:16:23 PM: Count: Current total items in cart: 0
+8/26/2025 10:16:33 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 10:16:33 PM: Count: Current total items in cart: 0
+8/26/2025 10:16:40 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 10:16:40 PM: Count: Current total items in cart: 0
+8/26/2025 10:16:42 PM: Add: Attempting to add product 879c401b-3c23-45f5-a1de-62dbc06485f1 with quantity 1
+8/26/2025 10:16:42 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 10:16:42 PM: Add: Product 879c401b-3c23-45f5-a1de-62dbc06485f1 added. Cart before save: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1}
+8/26/2025 10:16:42 PM: Save: Cart saved: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1}
+8/26/2025 10:16:42 PM: Add: Product 879c401b-3c23-45f5-a1de-62dbc06485f1 added. Cart after save: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1}
+8/26/2025 10:16:42 PM: GetCart: Retrieved JSON from session: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1}
+8/26/2025 10:16:42 PM: GetCart: Deserialized cart: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1}
+8/26/2025 10:16:44 PM: Add: Attempting to add product 0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a with quantity 1
+8/26/2025 10:16:44 PM: GetCart: Retrieved JSON from session: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1}
+8/26/2025 10:16:44 PM: GetCart: Deserialized cart: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1}
+8/26/2025 10:16:44 PM: Add: Product 0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a added. Cart before save: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 10:16:44 PM: Save: Cart saved: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 10:16:44 PM: Add: Product 0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a added. Cart after save: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 10:16:44 PM: GetCart: Retrieved JSON from session: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 10:16:44 PM: GetCart: Deserialized cart: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 10:16:45 PM: GetCart: Retrieved JSON from session: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 10:16:45 PM: GetCart: Deserialized cart: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 10:16:45 PM: Count: Current total items in cart: 2
+8/26/2025 10:16:49 PM: Add: Attempting to add product 4fc27b22-b7ba-4764-a964-ef42931580ed with quantity 4
+8/26/2025 10:16:49 PM: GetCart: Retrieved JSON from session: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 10:16:49 PM: GetCart: Deserialized cart: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1}
+8/26/2025 10:16:49 PM: Add: Product 4fc27b22-b7ba-4764-a964-ef42931580ed added. Cart before save: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":4}
+8/26/2025 10:16:49 PM: Save: Cart saved: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":4}
+8/26/2025 10:16:49 PM: Add: Product 4fc27b22-b7ba-4764-a964-ef42931580ed added. Cart after save: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":4}
+8/26/2025 10:16:49 PM: GetCart: Retrieved JSON from session: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":4}
+8/26/2025 10:16:49 PM: GetCart: Deserialized cart: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":4}
+8/26/2025 10:16:51 PM: GetCart: Retrieved JSON from session: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":4}
+8/26/2025 10:16:51 PM: GetCart: Deserialized cart: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":4}
+8/26/2025 10:16:51 PM: GetCart: Retrieved JSON from session: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":4}
+8/26/2025 10:16:51 PM: GetCart: Deserialized cart: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":4}
+8/26/2025 10:16:51 PM: Count: Current total items in cart: 6
+8/26/2025 10:16:55 PM: GetCart: Retrieved JSON from session: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":4}
+8/26/2025 10:16:55 PM: GetCart: Deserialized cart: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":4}
+8/26/2025 10:16:55 PM: Count: Current total items in cart: 6
+8/26/2025 10:17:02 PM: GetCart: Retrieved JSON from session: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":4}
+8/26/2025 10:17:02 PM: GetCart: Deserialized cart: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":4}
+8/26/2025 10:17:02 PM: Count: Current total items in cart: 6
+8/26/2025 10:17:09 PM: GetCart: Retrieved JSON from session: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":4}
+8/26/2025 10:17:09 PM: GetCart: Deserialized cart: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":4}
+8/26/2025 10:17:09 PM: Count: Current total items in cart: 6
+8/26/2025 10:17:10 PM: GetCart: Retrieved JSON from session: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":4}
+8/26/2025 10:17:10 PM: GetCart: Deserialized cart: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":4}
+8/26/2025 10:17:10 PM: Count: Current total items in cart: 6
+8/26/2025 10:17:18 PM: GetCart: Retrieved JSON from session: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":4}
+8/26/2025 10:17:18 PM: GetCart: Deserialized cart: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":4}
+8/26/2025 10:17:18 PM: Count: Current total items in cart: 6
+8/26/2025 10:17:21 PM: GetCart: Retrieved JSON from session: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":4}
+8/26/2025 10:17:21 PM: GetCart: Deserialized cart: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":4}
+8/26/2025 10:17:21 PM: Count: Current total items in cart: 6
+8/26/2025 10:17:24 PM: GetCart: Retrieved JSON from session: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":4}
+8/26/2025 10:17:24 PM: GetCart: Deserialized cart: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":4}
+8/26/2025 10:17:24 PM: Count: Current total items in cart: 6
+8/26/2025 10:17:25 PM: GetCart: Retrieved JSON from session: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":4}
+8/26/2025 10:17:25 PM: GetCart: Deserialized cart: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":4}
+8/26/2025 10:17:25 PM: Count: Current total items in cart: 6
+8/26/2025 10:17:26 PM: GetCart: Retrieved JSON from session: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":4}
+8/26/2025 10:17:26 PM: GetCart: Deserialized cart: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":4}
+8/26/2025 10:17:26 PM: Count: Current total items in cart: 6
+8/26/2025 10:17:28 PM: GetCart: Retrieved JSON from session: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":4}
+8/26/2025 10:17:28 PM: GetCart: Deserialized cart: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":4}
+8/26/2025 10:17:28 PM: Count: Current total items in cart: 6
+8/26/2025 10:17:31 PM: GetCart: Retrieved JSON from session: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":4}
+8/26/2025 10:17:31 PM: GetCart: Deserialized cart: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":4}
+8/26/2025 10:17:31 PM: Count: Current total items in cart: 6
+8/26/2025 10:17:33 PM: GetCart: Retrieved JSON from session: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":4}
+8/26/2025 10:17:33 PM: GetCart: Deserialized cart: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":4}
+8/26/2025 10:17:33 PM: Count: Current total items in cart: 6
+8/26/2025 10:17:34 PM: GetCart: Retrieved JSON from session: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":4}
+8/26/2025 10:17:34 PM: GetCart: Deserialized cart: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":4}
+8/26/2025 10:17:34 PM: Count: Current total items in cart: 6
+8/26/2025 10:18:31 PM: GetCart: Retrieved JSON from session: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":4}
+8/26/2025 10:18:31 PM: GetCart: Deserialized cart: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":4}
+8/26/2025 10:18:31 PM: Count: Current total items in cart: 6
+8/26/2025 10:18:32 PM: GetCart: Retrieved JSON from session: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":4}
+8/26/2025 10:18:32 PM: GetCart: Deserialized cart: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":4}
+8/26/2025 10:18:32 PM: Count: Current total items in cart: 6
+8/26/2025 10:18:33 PM: GetCart: Retrieved JSON from session: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":4}
+8/26/2025 10:18:33 PM: GetCart: Deserialized cart: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":4}
+8/26/2025 10:18:33 PM: Count: Current total items in cart: 6
+8/26/2025 10:18:36 PM: GetCart: Retrieved JSON from session: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":4}
+8/26/2025 10:18:36 PM: GetCart: Deserialized cart: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":4}
+8/26/2025 10:18:36 PM: Count: Current total items in cart: 6
+8/26/2025 10:18:38 PM: GetCart: Retrieved JSON from session: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":4}
+8/26/2025 10:18:38 PM: GetCart: Deserialized cart: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1,"0c1e32a8-793e-4e2d-b50b-8d9cefea8c9a":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":4}
+8/26/2025 10:18:38 PM: Count: Current total items in cart: 6
+8/26/2025 10:55:02 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 10:55:02 PM: Count: Current total items in cart: 0
+8/26/2025 10:55:31 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 10:55:31 PM: Count: Current total items in cart: 0
+8/26/2025 10:55:35 PM: Add: Attempting to add product 5ad1d6de-c04e-428c-965c-99b714efeec8 with quantity 1
+8/26/2025 10:55:35 PM: GetCart: Retrieved JSON from session: (null or empty)
+8/26/2025 10:55:35 PM: Add: Product 5ad1d6de-c04e-428c-965c-99b714efeec8 added. Cart before save: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+8/26/2025 10:55:35 PM: Save: Cart saved: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+8/26/2025 10:55:35 PM: Add: Product 5ad1d6de-c04e-428c-965c-99b714efeec8 added. Cart after save: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+8/26/2025 10:55:35 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+8/26/2025 10:55:35 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+8/26/2025 10:55:37 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+8/26/2025 10:55:37 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+8/26/2025 10:55:37 PM: Count: Current total items in cart: 1
+8/26/2025 10:55:39 PM: Add: Attempting to add product 5ad1d6de-c04e-428c-965c-99b714efeec8 with quantity 1
+8/26/2025 10:55:39 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+8/26/2025 10:55:39 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+8/26/2025 10:55:39 PM: Add: Product 5ad1d6de-c04e-428c-965c-99b714efeec8 added. Cart before save: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:55:39 PM: Save: Cart saved: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:55:39 PM: Add: Product 5ad1d6de-c04e-428c-965c-99b714efeec8 added. Cart after save: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:55:39 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:55:39 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:55:40 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:55:40 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:55:41 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:55:41 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:55:41 PM: Count: Current total items in cart: 2
+8/26/2025 10:55:44 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:55:44 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:55:44 PM: Count: Current total items in cart: 2
+8/26/2025 10:55:55 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:55:55 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:55:55 PM: Count: Current total items in cart: 2
+8/26/2025 10:56:03 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:56:03 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:56:03 PM: Count: Current total items in cart: 2
+8/26/2025 10:56:05 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:56:05 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:56:05 PM: Count: Current total items in cart: 2
+8/26/2025 10:56:14 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:56:14 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:56:14 PM: Count: Current total items in cart: 2
+8/26/2025 10:56:16 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:56:16 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:56:16 PM: Count: Current total items in cart: 2
+8/26/2025 10:56:19 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:56:19 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:56:19 PM: Count: Current total items in cart: 2
+8/26/2025 10:56:20 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:56:20 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:56:20 PM: Count: Current total items in cart: 2
+8/26/2025 10:56:21 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:56:21 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:56:21 PM: Count: Current total items in cart: 2
+8/26/2025 10:56:22 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:56:22 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:56:22 PM: Count: Current total items in cart: 2
+8/26/2025 10:56:22 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:56:22 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:56:22 PM: Count: Current total items in cart: 2
+8/26/2025 10:56:24 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:56:24 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:56:24 PM: Count: Current total items in cart: 2
+8/26/2025 10:56:28 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:56:28 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:56:28 PM: Count: Current total items in cart: 2
+8/26/2025 10:56:37 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:56:37 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:56:37 PM: Count: Current total items in cart: 2
+8/26/2025 10:56:38 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:56:38 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:56:38 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:56:38 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:56:38 PM: Count: Current total items in cart: 2
+8/26/2025 10:56:47 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:56:47 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:56:47 PM: Count: Current total items in cart: 2
+8/26/2025 10:56:55 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:56:55 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:56:55 PM: Count: Current total items in cart: 2
+8/26/2025 10:57:38 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:57:38 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:57:38 PM: Count: Current total items in cart: 2
+8/26/2025 10:57:38 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:57:38 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:57:38 PM: Count: Current total items in cart: 2
+8/26/2025 10:58:04 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:58:04 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:58:04 PM: Count: Current total items in cart: 2
+8/26/2025 10:58:30 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:58:30 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:58:30 PM: Count: Current total items in cart: 2
+8/26/2025 10:58:34 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:58:34 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:58:34 PM: Count: Current total items in cart: 2
+8/26/2025 10:58:42 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:58:42 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:58:42 PM: Count: Current total items in cart: 2
+8/26/2025 10:58:44 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:58:44 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:58:44 PM: Count: Current total items in cart: 2
+8/26/2025 10:58:45 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:58:45 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:58:45 PM: Count: Current total items in cart: 2
+8/26/2025 10:58:52 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:58:52 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:58:52 PM: Count: Current total items in cart: 2
+8/26/2025 10:59:03 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:59:03 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:59:03 PM: Count: Current total items in cart: 2
+8/26/2025 10:59:08 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:59:08 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:59:08 PM: Count: Current total items in cart: 2
+8/26/2025 10:59:14 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:59:14 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:59:14 PM: Count: Current total items in cart: 2
+8/26/2025 10:59:28 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:59:28 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 10:59:28 PM: Count: Current total items in cart: 2
+8/26/2025 11:02:17 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 11:02:17 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 11:02:17 PM: Count: Current total items in cart: 2
+8/26/2025 11:02:40 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 11:02:40 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 11:02:40 PM: Count: Current total items in cart: 2
+8/26/2025 11:02:44 PM: Add: Attempting to add product 879c401b-3c23-45f5-a1de-62dbc06485f1 with quantity 1
+8/26/2025 11:02:44 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 11:02:44 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2}
+8/26/2025 11:02:44 PM: Add: Product 879c401b-3c23-45f5-a1de-62dbc06485f1 added. Cart before save: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2,"879c401b-3c23-45f5-a1de-62dbc06485f1":1}
+8/26/2025 11:02:44 PM: Save: Cart saved: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2,"879c401b-3c23-45f5-a1de-62dbc06485f1":1}
+8/26/2025 11:02:44 PM: Add: Product 879c401b-3c23-45f5-a1de-62dbc06485f1 added. Cart after save: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2,"879c401b-3c23-45f5-a1de-62dbc06485f1":1}
+8/26/2025 11:02:44 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2,"879c401b-3c23-45f5-a1de-62dbc06485f1":1}
+8/26/2025 11:02:44 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2,"879c401b-3c23-45f5-a1de-62dbc06485f1":1}
+8/26/2025 11:02:49 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2,"879c401b-3c23-45f5-a1de-62dbc06485f1":1}
+8/26/2025 11:02:49 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2,"879c401b-3c23-45f5-a1de-62dbc06485f1":1}
+8/26/2025 11:02:49 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2,"879c401b-3c23-45f5-a1de-62dbc06485f1":1}
+8/26/2025 11:02:49 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2,"879c401b-3c23-45f5-a1de-62dbc06485f1":1}
+8/26/2025 11:02:49 PM: Count: Current total items in cart: 3
+8/26/2025 11:02:50 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2,"879c401b-3c23-45f5-a1de-62dbc06485f1":1}
+8/26/2025 11:02:50 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2,"879c401b-3c23-45f5-a1de-62dbc06485f1":1}
+8/26/2025 11:02:50 PM: Count: Current total items in cart: 3
+8/26/2025 11:02:52 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2,"879c401b-3c23-45f5-a1de-62dbc06485f1":1}
+8/26/2025 11:02:52 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2,"879c401b-3c23-45f5-a1de-62dbc06485f1":1}
+8/26/2025 11:02:52 PM: Count: Current total items in cart: 3
+8/26/2025 11:03:03 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2,"879c401b-3c23-45f5-a1de-62dbc06485f1":1}
+8/26/2025 11:03:03 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2,"879c401b-3c23-45f5-a1de-62dbc06485f1":1}
+8/26/2025 11:03:03 PM: Count: Current total items in cart: 3
+8/26/2025 11:03:15 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2,"879c401b-3c23-45f5-a1de-62dbc06485f1":1}
+8/26/2025 11:03:15 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2,"879c401b-3c23-45f5-a1de-62dbc06485f1":1}
+8/26/2025 11:03:15 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2,"879c401b-3c23-45f5-a1de-62dbc06485f1":1}
+8/26/2025 11:03:15 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2,"879c401b-3c23-45f5-a1de-62dbc06485f1":1}
+8/26/2025 11:03:15 PM: Count: Current total items in cart: 3
+8/26/2025 11:03:17 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2,"879c401b-3c23-45f5-a1de-62dbc06485f1":1}
+8/26/2025 11:03:17 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2,"879c401b-3c23-45f5-a1de-62dbc06485f1":1}
+8/26/2025 11:03:17 PM: Count: Current total items in cart: 3
+8/26/2025 11:03:20 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2,"879c401b-3c23-45f5-a1de-62dbc06485f1":1}
+8/26/2025 11:03:20 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2,"879c401b-3c23-45f5-a1de-62dbc06485f1":1}
+8/26/2025 11:03:20 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2,"879c401b-3c23-45f5-a1de-62dbc06485f1":1}
+8/26/2025 11:03:20 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2,"879c401b-3c23-45f5-a1de-62dbc06485f1":1}
+8/26/2025 11:03:20 PM: Count: Current total items in cart: 3
+8/26/2025 11:03:29 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2,"879c401b-3c23-45f5-a1de-62dbc06485f1":1}
+8/26/2025 11:03:29 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2,"879c401b-3c23-45f5-a1de-62dbc06485f1":1}
+8/26/2025 11:03:29 PM: Count: Current total items in cart: 3
+8/26/2025 11:04:07 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2,"879c401b-3c23-45f5-a1de-62dbc06485f1":1}
+8/26/2025 11:04:07 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2,"879c401b-3c23-45f5-a1de-62dbc06485f1":1}
+8/26/2025 11:04:07 PM: Count: Current total items in cart: 3
+8/26/2025 11:07:57 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2,"879c401b-3c23-45f5-a1de-62dbc06485f1":1}
+8/26/2025 11:07:57 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":2,"879c401b-3c23-45f5-a1de-62dbc06485f1":1}
+8/26/2025 11:07:57 PM: Count: Current total items in cart: 3
+1/9/2026 2:50:03 PM: GetCart: Retrieved JSON from session: (null or empty)
+1/9/2026 2:50:07 PM: Count: Current total items in cart: 0
+1/9/2026 2:50:42 PM: GetCart: Retrieved JSON from session: (null or empty)
+1/9/2026 2:50:42 PM: Count: Current total items in cart: 0
+1/9/2026 2:50:55 PM: Add: Attempting to add product 879c401b-3c23-45f5-a1de-62dbc06485f1 with quantity 1
+1/9/2026 2:50:55 PM: GetCart: Retrieved JSON from session: (null or empty)
+1/9/2026 2:50:55 PM: Add: Product 879c401b-3c23-45f5-a1de-62dbc06485f1 added. Cart before save: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1}
+1/9/2026 2:50:55 PM: Save: Cart saved: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1}
+1/9/2026 2:50:55 PM: Add: Product 879c401b-3c23-45f5-a1de-62dbc06485f1 added. Cart after save: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1}
+1/9/2026 2:50:55 PM: GetCart: Retrieved JSON from session: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1}
+1/9/2026 2:50:55 PM: GetCart: Deserialized cart: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1}
+1/9/2026 2:51:01 PM: GetCart: Retrieved JSON from session: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1}
+1/9/2026 2:51:01 PM: GetCart: Deserialized cart: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1}
+1/9/2026 2:51:01 PM: GetCart: Retrieved JSON from session: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1}
+1/9/2026 2:51:01 PM: GetCart: Deserialized cart: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1}
+1/9/2026 2:51:01 PM: Count: Current total items in cart: 1
+1/9/2026 2:51:03 PM: GetCart: Retrieved JSON from session: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1}
+1/9/2026 2:51:03 PM: GetCart: Deserialized cart: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1}
+1/9/2026 2:51:03 PM: Count: Current total items in cart: 1
+1/9/2026 2:51:19 PM: GetCart: Retrieved JSON from session: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1}
+1/9/2026 2:51:19 PM: GetCart: Deserialized cart: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1}
+1/9/2026 2:51:19 PM: Count: Current total items in cart: 1
+1/9/2026 2:51:31 PM: GetCart: Retrieved JSON from session: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1}
+1/9/2026 2:51:31 PM: GetCart: Deserialized cart: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1}
+1/9/2026 2:51:31 PM: Count: Current total items in cart: 1
+1/9/2026 2:51:40 PM: GetCart: Retrieved JSON from session: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1}
+1/9/2026 2:51:40 PM: GetCart: Deserialized cart: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1}
+1/9/2026 2:51:40 PM: GetCart: Retrieved JSON from session: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1}
+1/9/2026 2:51:40 PM: GetCart: Deserialized cart: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1}
+1/9/2026 2:51:40 PM: Count: Current total items in cart: 1
+1/9/2026 2:51:43 PM: Remove: Attempting to remove product 879c401b-3c23-45f5-a1de-62dbc06485f1
+1/9/2026 2:51:43 PM: GetCart: Retrieved JSON from session: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1}
+1/9/2026 2:51:43 PM: GetCart: Deserialized cart: {"879c401b-3c23-45f5-a1de-62dbc06485f1":1}
+1/9/2026 2:51:43 PM: Remove: Product 879c401b-3c23-45f5-a1de-62dbc06485f1 removed. Cart after remove: {}
+1/9/2026 2:51:43 PM: Save: Cart saved: {}
+1/9/2026 2:51:43 PM: GetCart: Retrieved JSON from session: {}
+1/9/2026 2:51:43 PM: GetCart: Deserialized cart: {}
+1/9/2026 2:51:43 PM: GetCart: Retrieved JSON from session: {}
+1/9/2026 2:51:43 PM: GetCart: Deserialized cart: {}
+1/9/2026 2:51:43 PM: Count: Current total items in cart: 0
+1/9/2026 2:51:43 PM: GetCart: Retrieved JSON from session: {}
+1/9/2026 2:51:43 PM: GetCart: Deserialized cart: {}
+1/9/2026 2:51:43 PM: Count: Current total items in cart: 0
+1/9/2026 2:51:46 PM: GetCart: Retrieved JSON from session: {}
+1/9/2026 2:51:46 PM: GetCart: Deserialized cart: {}
+1/9/2026 2:51:46 PM: Count: Current total items in cart: 0
+1/9/2026 2:51:49 PM: GetCart: Retrieved JSON from session: {}
+1/9/2026 2:51:49 PM: GetCart: Deserialized cart: {}
+1/9/2026 2:51:49 PM: Count: Current total items in cart: 0
+1/9/2026 2:52:00 PM: GetCart: Retrieved JSON from session: {}
+1/9/2026 2:52:00 PM: GetCart: Deserialized cart: {}
+1/9/2026 2:52:00 PM: Count: Current total items in cart: 0
+1/9/2026 2:52:12 PM: GetCart: Retrieved JSON from session: {}
+1/9/2026 2:52:12 PM: GetCart: Deserialized cart: {}
+1/9/2026 2:52:12 PM: Count: Current total items in cart: 0
+1/9/2026 2:52:29 PM: GetCart: Retrieved JSON from session: {}
+1/9/2026 2:52:29 PM: GetCart: Deserialized cart: {}
+1/9/2026 2:52:29 PM: Count: Current total items in cart: 0
+1/9/2026 2:52:33 PM: GetCart: Retrieved JSON from session: {}
+1/9/2026 2:52:33 PM: GetCart: Deserialized cart: {}
+1/9/2026 2:52:33 PM: Count: Current total items in cart: 0
+1/9/2026 2:52:35 PM: GetCart: Retrieved JSON from session: {}
+1/9/2026 2:52:35 PM: GetCart: Deserialized cart: {}
+1/9/2026 2:52:35 PM: Count: Current total items in cart: 0
+1/9/2026 2:52:37 PM: GetCart: Retrieved JSON from session: {}
+1/9/2026 2:52:37 PM: GetCart: Deserialized cart: {}
+1/9/2026 2:52:37 PM: Count: Current total items in cart: 0
+1/9/2026 2:52:53 PM: GetCart: Retrieved JSON from session: {}
+1/9/2026 2:52:53 PM: GetCart: Deserialized cart: {}
+1/9/2026 2:52:53 PM: Count: Current total items in cart: 0
+1/9/2026 11:36:34 PM: GetCart: Retrieved JSON from session: (null or empty)
+1/9/2026 11:36:34 PM: Count: Current total items in cart: 0
+1/9/2026 11:36:43 PM: GetCart: Retrieved JSON from session: (null or empty)
+1/9/2026 11:36:43 PM: Count: Current total items in cart: 0
+1/9/2026 11:36:43 PM: Add: Attempting to add product 5ad1d6de-c04e-428c-965c-99b714efeec8 with quantity 1
+1/9/2026 11:36:43 PM: GetCart: Retrieved JSON from session: (null or empty)
+1/9/2026 11:36:43 PM: Add: Product 5ad1d6de-c04e-428c-965c-99b714efeec8 added. Cart before save: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+1/9/2026 11:36:43 PM: Save: Cart saved: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+1/9/2026 11:36:43 PM: Add: Product 5ad1d6de-c04e-428c-965c-99b714efeec8 added. Cart after save: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+1/9/2026 11:36:43 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+1/9/2026 11:36:43 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+1/9/2026 11:36:47 PM: Add: Attempting to add product 4fc27b22-b7ba-4764-a964-ef42931580ed with quantity 1
+1/9/2026 11:36:47 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+1/9/2026 11:36:47 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1}
+1/9/2026 11:36:47 PM: Add: Product 4fc27b22-b7ba-4764-a964-ef42931580ed added. Cart before save: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+1/9/2026 11:36:47 PM: Save: Cart saved: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+1/9/2026 11:36:47 PM: Add: Product 4fc27b22-b7ba-4764-a964-ef42931580ed added. Cart after save: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+1/9/2026 11:36:47 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+1/9/2026 11:36:47 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+1/9/2026 11:36:48 PM: Add: Attempting to add product 688bbaa6-c15d-40da-9e0a-318a8f4ec7c4 with quantity 1
+1/9/2026 11:36:48 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+1/9/2026 11:36:48 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1}
+1/9/2026 11:36:48 PM: Add: Product 688bbaa6-c15d-40da-9e0a-318a8f4ec7c4 added. Cart before save: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+1/9/2026 11:36:48 PM: Save: Cart saved: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+1/9/2026 11:36:48 PM: Add: Product 688bbaa6-c15d-40da-9e0a-318a8f4ec7c4 added. Cart after save: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+1/9/2026 11:36:48 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+1/9/2026 11:36:48 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+1/9/2026 11:36:50 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+1/9/2026 11:36:50 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+1/9/2026 11:36:50 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+1/9/2026 11:36:50 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+1/9/2026 11:36:50 PM: Count: Current total items in cart: 3
+1/9/2026 11:36:53 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+1/9/2026 11:36:53 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+1/9/2026 11:36:53 PM: Count: Current total items in cart: 3
+1/9/2026 11:37:05 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+1/9/2026 11:37:05 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+1/9/2026 11:37:05 PM: Count: Current total items in cart: 3
+1/9/2026 11:37:24 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+1/9/2026 11:37:24 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+1/9/2026 11:37:24 PM: Count: Current total items in cart: 3
+1/9/2026 11:37:28 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+1/9/2026 11:37:28 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+1/9/2026 11:37:28 PM: Count: Current total items in cart: 3
+1/9/2026 11:37:32 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+1/9/2026 11:37:32 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+1/9/2026 11:37:32 PM: Count: Current total items in cart: 3
+1/9/2026 11:38:21 PM: GetCart: Retrieved JSON from session: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+1/9/2026 11:38:21 PM: GetCart: Deserialized cart: {"5ad1d6de-c04e-428c-965c-99b714efeec8":1,"4fc27b22-b7ba-4764-a964-ef42931580ed":1,"688bbaa6-c15d-40da-9e0a-318a8f4ec7c4":1}
+1/9/2026 11:38:21 PM: Count: Current total items in cart: 3

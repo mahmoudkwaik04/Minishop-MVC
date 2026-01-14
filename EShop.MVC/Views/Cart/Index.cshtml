@@ -1,0 +1,122 @@
+@model IEnumerable<EShop.MVC.ViewModels.CartItemViewModel>
+@{
+    ViewData["Title"] = "سلة التسوق";
+}
+
+<div class="container py-4">
+    <div class="row">
+        <div class="col-12">
+            <div class="card shadow">
+                <div class="card-header bg-primary text-white">
+                    <h4 class="mb-0 arabic-heading">
+                        <i class="fa-solid fa-shopping-cart me-2"></i>
+                        سلة التسوق
+                    </h4>
+                </div>
+                <div class="card-body">
+                    @if (Model != null && Model.Any())
+                    {
+                        <div class="table-responsive">
+                            <table class="table table-hover">
+                                <thead class="table-dark">
+                                    <tr class="arabic-text">
+                                        <th>المنتج</th>
+                                        <th>الصورة</th>
+                                        <th>السعر</th>
+                                        <th>الكمية</th>
+                                        <th>الإجمالي</th>
+                                        <th>الإجراءات</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @{
+                                        decimal totalAmount = 0;
+                                    }
+                                    @foreach (var item in Model)
+                                    {
+                                        var itemTotal = item.Product.Price * item.Quantity;
+                                        totalAmount += itemTotal;
+                                        <tr>
+                                            <td>
+                                                <div>
+                                                    <h6 class="mb-1 arabic-text fw-bold">@item.Product.Name</h6>
+                                                    <small class="text-muted arabic-text">@(item.Product.Description ?? "وصف المنتج")</small>
+                                                </div>
+                                            </td>
+                                            <td>
+                                                <img src="@(item.Product.ImageUrl ?? "https://via.placeholder.com/80x80/667eea/ffffff?text=صورة")" 
+                                                     alt="@item.Product.Name" class="img-thumbnail" style="width: 80px; height: 80px; object-fit: cover;">
+                                            </td>
+                                            <td class="arabic-text fw-bold text-success">@item.Product.Price.ToString("F2") ر.س</td>
+                                            <td>
+                                                <div class="input-group" style="width: 120px;">
+                                                    <span class="input-group-text">@item.Quantity</span>
+                                                </div>
+                                            </td>
+                                            <td class="arabic-text fw-bold text-primary">@itemTotal.ToString("F2") ر.س</td>
+                                            <td>
+                                                <form asp-action="Remove" method="post" style="display: inline;">
+                                                    <input type="hidden" name="id" value="@item.Product.Id" />
+                                                    <button type="submit" class="btn btn-danger btn-sm" 
+                                                            onclick="return confirm('هل أنت متأكد من حذف هذا المنتج؟')">
+                                                        <i class="fa-solid fa-trash me-1"></i>
+                                                        حذف
+                                                    </button>
+                                                </form>
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                                <tfoot class="table-light">
+                                    <tr>
+                                        <td colspan="4" class="text-end arabic-text fw-bold fs-5">المجموع الكلي:</td>
+                                        <td class="arabic-text fw-bold fs-5 text-success">@totalAmount.ToString("F2") ر.س</td>
+                                        <td></td>
+                                    </tr>
+                                </tfoot>
+                            </table>
+                        </div>
+                        
+                        <div class="row mt-4">
+                            <div class="col-md-6">
+                                <form asp-action="Clear" method="post">
+                                    <button type="submit" class="btn btn-outline-danger btn-lg w-100 arabic-text"
+                                            onclick="return confirm('هل أنت متأكد من تفريغ السلة؟')">
+                                        <i class="fa-solid fa-trash-can me-2"></i>
+                                        تفريغ السلة
+                                    </button>
+                                </form>
+                            </div>
+                            <div class="col-md-6">
+                                <a asp-action="Checkout" class="btn btn-success btn-lg w-100 arabic-text">
+                                    <i class="fa-solid fa-credit-card me-2"></i>
+                                    إتمام الشراء (@totalAmount.ToString("F2") ر.س)
+                                </a>
+                            </div>
+                        </div>
+                        
+                        <div class="mt-3">
+                            <a asp-controller="Products" asp-action="Index" class="btn btn-outline-primary arabic-text">
+                                <i class="fa-solid fa-arrow-left me-2"></i>
+                                متابعة التسوق
+                            </a>
+                        </div>
+                    }
+                    else
+                    {
+                        <div class="text-center py-5">
+                            <i class="fa-solid fa-shopping-cart fa-3x text-muted mb-3"></i>
+                            <h5 class="text-muted arabic-text">سلة التسوق فارغة</h5>
+                            <p class="text-muted arabic-text">ابدأ بإضافة منتجات إلى سلتك للاستمتاع بتجربة التسوق</p>
+                            <a asp-controller="Products" asp-action="Index" class="btn btn-primary btn-lg arabic-text">
+                                <i class="fa-solid fa-shopping-bag me-2"></i>
+                                تصفح المنتجات
+                            </a>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
